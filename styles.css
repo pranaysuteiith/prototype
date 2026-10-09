@@ -11,6 +11,9 @@
   --gold: #e2a93b;
   --shadow: 0 1px 2px rgba(60, 40, 20, 0.06), 0 8px 24px rgba(60, 40, 20, 0.06);
   --radius: 16px;
+  --ok-bg: #e4f0da; --ok-ink: #3f6e2b;
+  --wait-bg: #f6ead0; --wait-ink: #8a6418;
+  --done-bg: #fbe1d4; --done-ink: #a4431f;
   color-scheme: light;
 }
 
@@ -24,8 +27,25 @@
     --line: #3a342f;
     --accent: #e07a50;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px rgba(0, 0, 0, 0.25);
+    --ok-bg: #2f3f26; --ok-ink: #bfe0a5;
+    --wait-bg: #45391f; --wait-ink: #f0d08a;
+    --done-bg: #4a2b1e; --done-ink: #f6b394;
     color-scheme: dark;
   }
+}
+:root[data-theme='dark'] {
+  --bg: #1d1a18;
+  --bg-2: #24201d;
+  --card: #2a2622;
+  --ink: #f1ebe4;
+  --muted: #a99e93;
+  --line: #3a342f;
+  --accent: #e07a50;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px rgba(0, 0, 0, 0.25);
+  --ok-bg: #2f3f26; --ok-ink: #bfe0a5;
+  --wait-bg: #45391f; --wait-ink: #f0d08a;
+  --done-bg: #4a2b1e; --done-ink: #f6b394;
+  color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
@@ -117,14 +137,9 @@ h3 { font-size: 15px; }
   font-size: 12px; font-weight: 650; text-transform: uppercase; letter-spacing: 0.06em;
   padding: 4px 10px; border-radius: 999px; background: var(--bg-2); color: var(--muted);
 }
-.timer[data-status='running'] .badge { background: #e4f0da; color: #3f6e2b; }
-.timer[data-status='paused'] .badge { background: #f6ead0; color: #8a6418; }
-.timer[data-status='complete'] .badge { background: #fbe1d4; color: #a4431f; }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme='light']) .timer[data-status='running'] .badge { background: #2f3f26; color: #bfe0a5; }
-  :root:not([data-theme='light']) .timer[data-status='paused'] .badge { background: #45391f; color: #f0d08a; }
-  :root:not([data-theme='light']) .timer[data-status='complete'] .badge { background: #4a2b1e; color: #f6b394; }
-}
+.timer[data-status='running'] .badge { background: var(--ok-bg); color: var(--ok-ink); }
+.timer[data-status='paused'] .badge { background: var(--wait-bg); color: var(--wait-ink); }
+.timer[data-status='complete'] .badge { background: var(--done-bg); color: var(--done-ink); }
 
 .clock {
   font-size: 64px; font-weight: 700; letter-spacing: -0.03em; line-height: 1.1;

@@ -234,8 +234,19 @@ $('notes').addEventListener('click', (e) => {
 $('dev-complete').addEventListener('click', () => dispatch({ type: 'timer/completeNow' }));
 $('dev-coins').addEventListener('click', () => dispatch({ type: 'debug/grantCoins', amount: 100 }));
 $('dev-duration').addEventListener('change', (e) => dispatch({ type: 'timer/setDuration', ms: Number(e.target.value) }));
-$('dev-reset').addEventListener('click', () => {
-  if (!confirm('Erase your room, coins and journey?')) return;
+// Two-step confirm built into the button (browser dialogs are not always available).
+let resetArmed = null;
+$('dev-reset').addEventListener('click', (e) => {
+  const btn = e.currentTarget;
+  if (!resetArmed) {
+    btn.textContent = 'Tap again to erase';
+    resetArmed = setTimeout(() => {
+      resetArmed = null;
+      btn.textContent = 'Reset save';
+    }, 3000);
+    return;
+  }
+  clearTimeout(resetArmed);
   clearSave(storage);
   location.reload();
 });
