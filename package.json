@@ -1,0 +1,14 @@
+{
+  "name": "focus-rooms",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pomodoro room-builder prototype: focus for an hour, earn coins, grow your room.",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

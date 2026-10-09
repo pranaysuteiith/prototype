@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Focus Rooms</title>
+    <meta name="description" content="Focus for an hour, earn coins, and build your room one piece at a time." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <h1>Focus Rooms</h1>
+      </div>
+      <div class="stats">
+        <span class="pill coins" title="Coins"><span class="coin" aria-hidden="true"></span><b id="coins">0</b></span>
+        <span class="pill" title="Completed focus sessions"><b id="sessions">0</b>&nbsp;sessions</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="stage card" aria-label="Your room">
+        <div class="stage-head">
+          <div>
+            <p class="eyebrow" id="stage-index">Stage 1</p>
+            <h2 id="stage-name">The Empty Room</h2>
+          </div>
+          <p class="stage-blurb" id="stage-blurb"></p>
+        </div>
+        <div class="room" id="room"></div>
+        <div class="burst" id="burst" aria-live="polite"></div>
+      </section>
+
+      <aside class="side">
+        <section class="card timer" id="timer-card" data-phase="start" aria-label="Focus timer">
+          <div class="timer-head">
+            <span class="badge" id="phase-badge">Ready to start</span>
+            <span class="muted" id="reward-hint"></span>
+          </div>
+          <div class="clock" id="clock" role="timer" aria-live="off">60:00</div>
+          <div class="bar"><span id="bar-fill"></span></div>
+          <div class="controls" id="controls"></div>
+          <p class="companion-line" id="companion-line"></p>
+        </section>
+
+        <section class="card" aria-label="Journey">
+          <div class="card-head">
+            <h3>Journey</h3>
+            <span class="muted" id="journey-next"></span>
+          </div>
+          <div class="bar slim"><span id="journey-fill"></span></div>
+          <ol class="journey" id="journey"></ol>
+        </section>
+
+        <section class="card" aria-label="Shop">
+          <div class="card-head"><h3>Shop</h3></div>
+          <div class="tabs" id="shop-tabs" role="tablist"></div>
+          <ul class="shop" id="shop"></ul>
+        </section>
+
+        <section class="card" aria-label="Writings">
+          <div class="card-head">
+            <h3>Writings</h3>
+            <span class="muted" id="notes-count"></span>
+          </div>
+          <form class="note-form" id="note-form">
+            <input id="note-input" type="text" maxlength="80" placeholder="A goal, a quote, a reminder…" autocomplete="off" />
+            <button type="submit" class="btn" id="note-btn">Pin</button>
+          </form>
+          <p class="muted small" id="note-hint"></p>
+          <ul class="notes" id="notes"></ul>
+        </section>
+
+        <section class="card dev" id="dev" hidden aria-label="Developer tools">
+          <div class="card-head">
+            <h3>Dev tools</h3>
+            <span class="muted small">C = complete now · Space = start/pause</span>
+          </div>
+          <div class="dev-row">
+            <button class="btn accent" id="dev-complete">Complete now</button>
+            <button class="btn" id="dev-coins">+100 coins</button>
+          </div>
+          <div class="dev-row">
+            <label class="small" for="dev-duration">Session length</label>
+            <select id="dev-duration">
+              <option value="3600000">60 min (real)</option>
+              <option value="300000">5 min</option>
+              <option value="60000">1 min</option>
+              <option value="10000">10 sec</option>
+            </select>
+            <button class="btn ghost" id="dev-reset">Reset save</button>
+          </div>
+        </section>
+      </aside>
+    </main>
+
+    <div class="toasts" id="toasts" aria-live="polite"></div>
+    <script type="module" src="src/ui/app.js"></script>
+  </body>
+</html>
