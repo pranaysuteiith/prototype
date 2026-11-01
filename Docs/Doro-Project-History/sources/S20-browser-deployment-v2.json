@@ -1,0 +1,32 @@
+{
+  "url": "https://doro-quiet-cafe.shrewdmoss10.chatgpt.site",
+  "project_id": "appgprj_6adf90f129d481918d6e692b075c485e",
+  "version_id": "appgprj_6adf90f129d481918d6e692b075c485e~appgver_2dfe6dd6875c81918072282f11a19f80",
+  "version_number": 2,
+  "deployment_id": "appgdep_6ae23a2d78f88191a090b9accb6c4653",
+  "commit_sha": "a8f04dafd915491afe607b6de590cea748faa4f1",
+  "status": "succeeded",
+  "access": "public",
+  "included": [
+    "arrow-key playable green-sweater boy",
+    "walk and idle animations",
+    "follow camera and map collisions",
+    "belly dancer",
+    "birds, park ambience and distant dog barks",
+    "Q/E camera rotation",
+    "soft focus and sound controls"
+  ],
+  "browserChecks": {
+    "localBuildRendered": true,
+    "localSoftFocusToggle": true,
+    "localSoundButton": true,
+    "localRuntimeErrorsObserved": 0,
+    "productionGameRendered": true,
+    "productionRuntimeErrorsObserved": 0,
+    "arrowDirectionsVerifiedInUnity": true
+  },
+  "warnings": "Non-blocking Unity package shader and future collider pre-baking warnings remain; mobile performance is unverified.",
+  "screenshot": "/Users/pranay/My project/BuildArtifacts/doro-cafe-public-v2.jpg",
+  "buildSummary": "BuildArtifacts/browser-release-build-summary.json",
+  "validationNotes": "Desktop browser load, visible characters, blur and sound UI checked; held arrow-key directions, grounding, animations and boundary collision verified in Unity Play mode. Mobile unverified."
+}

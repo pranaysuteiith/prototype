@@ -1,0 +1,38 @@
+{
+  "avatarValid": true,
+  "avatarHuman": true,
+  "missingMappings": [],
+  "clips": [
+    {
+      "name": "ARM_Boy_GreenSweater|ANIM_Idle",
+      "length": 3.0,
+      "isHumanMotion": true,
+      "isLooping": true
+    },
+    {
+      "name": "ARM_Boy_GreenSweater|ANIM_Walk",
+      "length": 1.0,
+      "isHumanMotion": true,
+      "isLooping": true
+    },
+    {
+      "name": "ARM_Boy_GreenSweater|ANIM_Run",
+      "length": 0.75,
+      "isHumanMotion": true,
+      "isLooping": true
+    },
+    {
+      "name": "ARM_Boy_GreenSweater|ANIM_Wave",
+      "length": 4.0,
+      "isHumanMotion": true,
+      "isLooping": false
+    },
+    {
+      "name": "ARM_Boy_GreenSweater|ANIM_Sit",
+      "length": 3.0,
+      "isHumanMotion": true,
+      "isLooping": false
+    }
+  ],
+  "prefab": "Assets/DoroPainted/Characters/BoyGreenSweater/Boy_GreenSweater.prefab"
+}

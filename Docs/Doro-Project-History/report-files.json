@@ -1,0 +1,392 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 37124,
+    "sha256": "eda56cf712266d9618335a5661c3a718966a01a6c347382791728560b3270879"
+  },
+  {
+    "file": "compile_history.py",
+    "bytes": 47221,
+    "sha256": "2361a516208f79894936bf63255506dca6a9b1e8a043135530718636820656a3"
+  },
+  {
+    "file": "evidence-index.json",
+    "bytes": 13012,
+    "sha256": "e3a36fdaf07c21fab2e0480e16ab14d65a33d7ead912f69c69d673ca56af9bf4"
+  },
+  {
+    "file": "images/blender-focus.png",
+    "bytes": 2089125,
+    "sha256": "de38cb0489ea84500351f238d69e18b7b2233d50ea64b9ff148c8df01bb22a01"
+  },
+  {
+    "file": "images/blender-sharp.png",
+    "bytes": 2215414,
+    "sha256": "58a45ce832fe50d426ddaaf2df75bedc5efc114d4bf08723e54322bcb146e3c8"
+  },
+  {
+    "file": "images/boy-model.png",
+    "bytes": 1138701,
+    "sha256": "09d20b4232ec58afb9c81c05abe1bc992486811f594a88393838f7d2ead2890b"
+  },
+  {
+    "file": "images/boy-reference.png",
+    "bytes": 2100523,
+    "sha256": "1795025070d6b76ba1d8baf5f6b856df9677523b827196c8833f38826511aef8"
+  },
+  {
+    "file": "images/boy-walk.gif",
+    "bytes": 2510375,
+    "sha256": "603a45ac967da8f3a900117aedfa9a3abeaf015297f53e88f165d8f5c0f377b6"
+  },
+  {
+    "file": "images/concept-street.png",
+    "bytes": 3134494,
+    "sha256": "b46907351144c4f9284bf61cd7daaf9ab09fa5ac7319138fa6e43f2f9a7368e1"
+  },
+  {
+    "file": "images/concept-tilt.png",
+    "bytes": 2208144,
+    "sha256": "46774681117e9d3975b53923401ccea9245d6227dd35c18bbb13364dd4fbe5a0"
+  },
+  {
+    "file": "images/female-model.png",
+    "bytes": 640163,
+    "sha256": "e2e01037a1db550ab0e30233063ed31569afb82b176ac8d713bb74d4b25190ad"
+  },
+  {
+    "file": "images/female-reference.png",
+    "bytes": 1880614,
+    "sha256": "90a6fb501a4967228e26caa16b10f8352f441ab0e517af8435d60d32219d46ab"
+  },
+  {
+    "file": "images/published-v2.jpg",
+    "bytes": 103936,
+    "sha256": "1f81aeb77cd1ff91ddf9b1bf132f35fc545caf3b5ba3e1a5d0d85da6c4d2ad67"
+  },
+  {
+    "file": "images/unity-map.png",
+    "bytes": 1060638,
+    "sha256": "86b71e6d8a5561559e74c8996612e50932a2655a9c8fb0d467a4da9afabf59f8"
+  },
+  {
+    "file": "index.html",
+    "bytes": 52038,
+    "sha256": "bedfba7725ade48ae039d75e4d07e0a6e4dca63bcd521f80920d5bedd399a8be"
+  },
+  {
+    "file": "report-preview.jpg",
+    "bytes": 71968,
+    "sha256": "20d4e13c81eaa91f26afa27d7de7d4e94ffad994307e5eb35894da3fc6dfbd1f"
+  },
+  {
+    "file": "report-validation.json",
+    "bytes": 329,
+    "sha256": "e4ef55a72c446ed7e4fd325b99981e138cf71d705e4e9ef0b8879f86e89a040f"
+  },
+  {
+    "file": "sources/Create-Style-Guide-accessibility.txt",
+    "bytes": 73632,
+    "sha256": "4ef725bdf772b70c828ea5980edeaebf8ba397c97b0e039741ecfe3bf80e6fb0"
+  },
+  {
+    "file": "sources/Create-Style-Guide-shared-chat.txt",
+    "bytes": 28488,
+    "sha256": "a8eb95c227478521bdcd06175544d60b66c9ad3d62ff603ef99adb7056388b1c"
+  },
+  {
+    "file": "sources/S04-scene-manifest.json",
+    "bytes": 717,
+    "sha256": "c1ab3d52bca6830f9c4d32e2e2ca3385c573b298c7fe5d06479892dcb5512bbe"
+  },
+  {
+    "file": "sources/S06-scene-manifest.json",
+    "bytes": 1070,
+    "sha256": "37acc579ebab5cdcf8aee1fbc7e9fc1f59eecd4defa53eabd54b7e313f9d7c2f"
+  },
+  {
+    "file": "sources/S07-play-verification.json",
+    "bytes": 8363,
+    "sha256": "d607642db35d9c4e21c95d21e606a714738903c16063999981057d6a6f39b4b6"
+  },
+  {
+    "file": "sources/S08-orbit-verification.json",
+    "bytes": 610,
+    "sha256": "0f1026676c7e7c5fc5efc6685018a6b2fbc476ad68896d02e38d80e4eedaa012"
+  },
+  {
+    "file": "sources/S09-audio-verification.json",
+    "bytes": 237,
+    "sha256": "cbd7ea6c055281465253c769c783ce54980136f67ff95c308213d0f68c58ec10"
+  },
+  {
+    "file": "sources/S10-browser-deployment.json",
+    "bytes": 690,
+    "sha256": "ebe9b23c8f1010dc2ecf6e82c262bc54db36c70a70266d18229dd8b0f28b3f23"
+  },
+  {
+    "file": "sources/S11-verification.json",
+    "bytes": 189,
+    "sha256": "4787e1c7a17a8a3fe5b3104b9ad2dd99f91d20fdc7018acedf92a2a782fd71ca"
+  },
+  {
+    "file": "sources/S12-dancer-verification.json",
+    "bytes": 298,
+    "sha256": "f6360cede78e67aeb40a01650dc436e19d43c4f0f7bc3177b2111b9ce0c2650f"
+  },
+  {
+    "file": "sources/S13-validation.json",
+    "bytes": 7604,
+    "sha256": "2b0299931f0c0b97962661f91607c266e3ff5922951cdec64e1303ad473bd7af"
+  },
+  {
+    "file": "sources/S14-fbx-validation.json",
+    "bytes": 1926,
+    "sha256": "ee6f629a4bcd84badbb7308e68ff7a3ddc9962ca1be7ae1cb4cb31a984fbe632"
+  },
+  {
+    "file": "sources/S15-unity-validation.json",
+    "bytes": 851,
+    "sha256": "c35605774dee404a3fe8c79d3d31a7fb9d7426d54c18dccba5d353e41dfae450"
+  },
+  {
+    "file": "sources/S16-animation-audit.json",
+    "bytes": 1166,
+    "sha256": "e049e6123bf6d724d6ce83ed72c47481dd13a934da517b638f5d2b29771aeb7d"
+  },
+  {
+    "file": "sources/S17-play-test.json",
+    "bytes": 1151,
+    "sha256": "8d04846c0f595f25bb1b6bc1f334913f9e663a0340aeb5857d64ebabb6594264"
+  },
+  {
+    "file": "sources/S18-preservation-report.json",
+    "bytes": 228,
+    "sha256": "02d4d3f38a3437e02869e507485315e099d962f0927d1554c93bde26cb76e66a"
+  },
+  {
+    "file": "sources/S19-browser-release-build-summary.json",
+    "bytes": 160,
+    "sha256": "1127830a8ad5db0e5cdaeef67955b72fa735eaf425b6c7fce4b1f1327cf00aaf"
+  },
+  {
+    "file": "sources/S20-browser-deployment-v2.json",
+    "bytes": 1469,
+    "sha256": "bf64734f9a523d32630b607cede8df73e75ebb5bdd5b648ca290e108a00a40af"
+  },
+  {
+    "file": "sources/S22-cafe-validation.json",
+    "bytes": 470,
+    "sha256": "96ff0c26d48788397f363cd2b12bfacf6c3ac0c1e4b360f99982b1d7f260f8e7"
+  },
+  {
+    "file": "sources/code/blender-boy/audit_boy.py",
+    "bytes": 1717,
+    "sha256": "c9aa64ae16b82e455aa61c105406e0271630f63c96a9a48ff6c266e2f51a8e96"
+  },
+  {
+    "file": "sources/code/blender-boy/build_boy.py",
+    "bytes": 32147,
+    "sha256": "cfa1d50bc5392f98061a1a215344a504b3b98a014bd1e161ddefcad5d4062859"
+  },
+  {
+    "file": "sources/code/blender-boy/cafe_preview.py",
+    "bytes": 1052,
+    "sha256": "7195dacc0fd573cc200fc1efe17296adc8978a48a0e1e0b8066f604b7227d80f"
+  },
+  {
+    "file": "sources/code/blender-boy/fbx_roundtrip.py",
+    "bytes": 1089,
+    "sha256": "89b2c6155967be2cf7236d87adc7e9382fde14c516ee565f6bdc3dc8bd858a46"
+  },
+  {
+    "file": "sources/code/blender-boy/finalize_uv.py",
+    "bytes": 1929,
+    "sha256": "07a6a504d3b009565fbd0d94f72a1aa67cd2a03b3d47cc832488487e2d689848"
+  },
+  {
+    "file": "sources/code/blender-boy/render_boy.py",
+    "bytes": 1732,
+    "sha256": "93d9cb9424c3a4800027d0c090cb7298cfc874597c34a72f495fe9e29a956100"
+  },
+  {
+    "file": "sources/code/blender-environment/build_scene.py",
+    "bytes": 11498,
+    "sha256": "677483f0cae6230ab68644944e3f6e3ca99e0daf972c4528b8fa9047b347ad4b"
+  },
+  {
+    "file": "sources/code/blender-environment/camera_scene.py",
+    "bytes": 3840,
+    "sha256": "a8fcdca9e1b957f970c00dc3371c2cec008821fd8f2a66403681836b372ba135"
+  },
+  {
+    "file": "sources/code/blender-environment/detail_scene.py",
+    "bytes": 13771,
+    "sha256": "64a14f7d1c24261916daf8a9dd59fed170a262b4a9436b27ac7f1143b232dfc6"
+  },
+  {
+    "file": "sources/code/blender-environment/export_scene.py",
+    "bytes": 4703,
+    "sha256": "0adb397cfc0a58347382fbe22947885f30dd81fac6887f1e82bb06944ea63a46"
+  },
+  {
+    "file": "sources/code/blender-environment/finish_foliage.py",
+    "bytes": 3255,
+    "sha256": "692a0a400ab8e09af5def93243670823aea06485894d36169eb79b1be1004d55"
+  },
+  {
+    "file": "sources/code/blender-environment/refine_scene.py",
+    "bytes": 4173,
+    "sha256": "71a65ac54dae93bb2c79519ec8cfdc1f00a95168fc8b0fcdd9a8cba7284270a7"
+  },
+  {
+    "file": "sources/code/blender-female/animate_character.py",
+    "bytes": 4955,
+    "sha256": "b3969f5dbb90fc72cc812428de6b038bf38cfb3ce79bd26de85d18deda673a82"
+  },
+  {
+    "file": "sources/code/blender-female/model_character.py",
+    "bytes": 17176,
+    "sha256": "55cfc9c760c388636401e21bccc9d28130ce7f395d3cb0a69375abe43b853012"
+  },
+  {
+    "file": "sources/code/blender-female/preview_character.py",
+    "bytes": 2805,
+    "sha256": "fc31d8eabaeff415ee55ebcf3c403ae697611ee471a43c02fb8a2d13cbba7b4e"
+  },
+  {
+    "file": "sources/code/blender-female/refine_character.py",
+    "bytes": 4148,
+    "sha256": "654f7b2d4b40f0a40f3e4281e1a1d7be1eeafb82b24af44606eedf23e33c562e"
+  },
+  {
+    "file": "sources/code/browser-shell/app.js",
+    "bytes": 4684,
+    "sha256": "d16f258ece276e36d12cc61fea9619a75412cf9561ff3e9941f1ee73765b9742"
+  },
+  {
+    "file": "sources/code/browser-shell/audio-credits.txt",
+    "bytes": 629,
+    "sha256": "5ef955a4bbd59e5634857c07182d5453ec62e8f9b38daa49021b830aea460b79"
+  },
+  {
+    "file": "sources/code/browser-shell/build-config.json",
+    "bytes": 616,
+    "sha256": "2a45eef5759399cee04c0cf66e93f54ff9b5dd2f04ef6a80a8e7bf6722edba7c"
+  },
+  {
+    "file": "sources/code/browser-shell/hosting.json",
+    "bytes": 106,
+    "sha256": "644032bbb1de72523d421292415b6beba86c6ac5d09da716ec0a2d009dfc89a6"
+  },
+  {
+    "file": "sources/code/browser-shell/index.html",
+    "bytes": 3698,
+    "sha256": "c7315fce80b19b28060ec30abdfa6edb9cb219b0d9e11c7ac24498cbe0cf0060"
+  },
+  {
+    "file": "sources/code/browser-shell/prepare_playable_site.py",
+    "bytes": 2211,
+    "sha256": "ec9873e6f62eb3696c4216ef4bb59a960f20cc16131240a2d768550bc7c4c4b1"
+  },
+  {
+    "file": "sources/code/browser-shell/style.css",
+    "bytes": 6680,
+    "sha256": "88ba9dcb74de6f34ca2b080c6e292c6fa6d24138dce1b792bddcf95ce57bbb7e"
+  },
+  {
+    "file": "sources/code/connection-probe/ImportBlenderBalls.cs",
+    "bytes": 3429,
+    "sha256": "997439be85621b1d5a40b792de367dd21b323c2c0645c7985f0ace184b1d7018"
+  },
+  {
+    "file": "sources/code/unity-integration/DoroAudioVerify.cs",
+    "bytes": 1395,
+    "sha256": "bb7a6eaa2a95c9062c1c607bd601fbd0e233fa79e2f6a6118fe8c14b122a12f1"
+  },
+  {
+    "file": "sources/code/unity-integration/DoroBrowserSetup.cs",
+    "bytes": 1669,
+    "sha256": "f183236510ad1d9c65046a2728550f4636bdfa3729b183c6b176c1a1642fbc07"
+  },
+  {
+    "file": "sources/code/unity-integration/DoroDancerGround.cs",
+    "bytes": 1382,
+    "sha256": "49fe73cb82754e2d73d783b4e90ff127f286a55a6cf9e2a20241892eec802e3a"
+  },
+  {
+    "file": "sources/code/unity-integration/DoroDancerSetup.cs",
+    "bytes": 6210,
+    "sha256": "40552b0bd0aa27e31d35a41d4f6f87311ceeca599c5ce25a1a92a0fe7746154b"
+  },
+  {
+    "file": "sources/code/unity-integration/DoroDancerVerify.cs",
+    "bytes": 2367,
+    "sha256": "d381c6f1aa49b1fb52ce698fc71bbc4b9fbe518bfba16c1d7a3c0f90ace2edb3"
+  },
+  {
+    "file": "sources/code/unity-integration/DoroOrbitVerify.cs",
+    "bytes": 4151,
+    "sha256": "89d9989afc833840429dd3d12d2ed0291743ceddf0b873edbc7bf85330b1f545"
+  },
+  {
+    "file": "sources/code/unity-integration/DoroVerify.cs",
+    "bytes": 8985,
+    "sha256": "285263ed239d0a75d0ccb416bb362d7ac35f129790a02ef6183dd45267a3a453"
+  },
+  {
+    "file": "sources/code/unity-integration/SetupWalker.cs",
+    "bytes": 6263,
+    "sha256": "0139d49f1884c5d6a32ee31a189c706b38f55833a2657f098cbf99dd8f510c6c"
+  },
+  {
+    "file": "sources/code/unity-integration/TestWalker.cs",
+    "bytes": 4668,
+    "sha256": "41202345fb6655da2e2bd67c58de77d10073790b12d837e88d7115337a4a642e"
+  },
+  {
+    "file": "sources/code/unity-integration/normalize_doro_export.py",
+    "bytes": 3009,
+    "sha256": "c9149c3b99ca1f82617310c410bace8f993df59a2f29982d94aa067fdb5ab50f"
+  },
+  {
+    "file": "sources/code/unity-integration/unity_import_verify.cs",
+    "bytes": 6338,
+    "sha256": "0d6c96aee692b6a34a644738ea56897ea5fc5217a1695945dca293e50851846e"
+  },
+  {
+    "file": "sources/code/unity-integration/unity_play_verify.cs",
+    "bytes": 3584,
+    "sha256": "3ece637e4d8009444056e3deeeb93ed009624c77a1efa51f2cb49d59409d9141"
+  },
+  {
+    "file": "sources/code/unity-runtime/DoroAmbientSound.cs",
+    "bytes": 2590,
+    "sha256": "a7442f4341417b9bcda23a811a4232cbb1e3a8cb59208133f8049028607700df"
+  },
+  {
+    "file": "sources/code/unity-runtime/DoroBoyWalker.cs",
+    "bytes": 3188,
+    "sha256": "20b29669a19f054800eba451f3ba1c3b66c3758f1a5b831231eb5a40fe726a1a"
+  },
+  {
+    "file": "sources/code/unity-runtime/DoroCenterFocus.cs",
+    "bytes": 3526,
+    "sha256": "13ac51bff3e92dae39718f42179938a56fea15eea508c60b5608a7a6cd5da35a"
+  },
+  {
+    "file": "sources/code/unity-runtime/DoroPanZoom.cs",
+    "bytes": 5424,
+    "sha256": "ce53ee439dcd1c15dac281397eb11319ced0f40a496b86f83d2ba566c3e1da3a"
+  },
+  {
+    "file": "sources/code/unity-runtime/DoroViewLighting.cs",
+    "bytes": 1639,
+    "sha256": "754d46211c1b9ff1d6481b3ffbf02aaa5aa8db43ef8d2e145474b0b3fb1beba8"
+  },
+  {
+    "file": "sources/code-index.json",
+    "bytes": 11164,
+    "sha256": "4a62e7f47e2832e11958021d89d07a97d1afd2bfe51401dbd3aeea7dd83c6f74"
+  }
+]

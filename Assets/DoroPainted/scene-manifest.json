@@ -1,0 +1,30 @@
+{
+  "name": "Doro Painted Coffee Crossroads",
+  "source_mesh_objects": 1595,
+  "export_mesh_objects": 28,
+  "export_triangles": 473636,
+  "export_bytes": 17091788,
+  "fbx_result": [
+    "FINISHED"
+  ],
+  "road_intersections": 1,
+  "unit_scale_m": 1.0,
+  "camera_blender": [
+    26.0,
+    -34.0,
+    29.0
+  ],
+  "camera_target_blender": [
+    -1.1,
+    0.2,
+    2.2
+  ],
+  "camera_lens_mm": 60.0,
+  "navigation": "WASD/arrows; middle/right drag; scroll; touch drag and pinch (Input System)",
+  "focus": "Center-screen raycast against simplified focus colliders; exponential smoothing; ground-plane fallback.",
+  "textures": "Painted atlas plus isolated foliage swatches; all packed into .blend and included as PNGs.",
+  "supplied_fbx_triangles": 473636,
+  "imported_unity_triangles": 472140,
+  "imported_unity_vertices": 1175933,
+  "unity_import_note": "Project FBX copy rebuilt from source blend with render UVs normalized before joining. Supplied source folder and blend unchanged. Native FBX orientation retained; camera uses explicitly requested Unity coordinates."
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-01",
+  "repository": "https://github.com/pranaysuteiith/prototype",
+  "source_workspace": "/Users/pranay/My project",
+  "checkout": "/Users/pranay/My project/GitHub/prototype",
+  "included": [
+    "Unity Assets/Packages/ProjectSettings and metadata",
+    "Blender environment master and scripts",
+    "Reusable boy and earlier female character sources",
+    "Browser shell source",
+    "Historical evidence and new product/setup/workflow documentation"
+  ],
+  "excluded": [
+    "Unity caches",
+    "Compiled browser distributions",
+    "Nested Sites .git",
+    "Duplicate scene/Blender backups",
+    "Full chat transcript captures",
+    "Credentials"
+  ],
+  "checks": {
+    "unity_source_copy": {
+      "files_compared": 803,
+      "mismatches": [],
+      "passed": true
+    },
+    "helper_python_syntax": {
+      "passed": true,
+      "files": 3
+    },
+    "web_release_fixture": {
+      "passed": true,
+      "parts": 6,
+      "checks": [
+        "exact chunk reconstruction",
+        "gzip roundtrip",
+        "WASM header",
+        "refuse existing output",
+        "reject invalid WASM"
+      ],
+      "not_tested": "Real Unity build/browser execution"
+    },
+    "credential_pattern_scan": {
+      "passed": true,
+      "matching_paths": [],
+      "scope": "Common private-key/GitHub/AWS/OpenAI token patterns in text files under 5 MiB; not a complete security audit"
+    },
+    "documentation_and_inventory": {
+      "passed": true,
+      "errors": []
+    },
+    "browser_shell_js_syntax": {
+      "passed": true,
+      "output": ""
+    },
+    "blender_cli_probe": {
+      "passed": true,
+      "version": "5.2.3 LTS",
+      "mode": "separate factory-startup process; did not open or modify existing project"
+    },
+    "git_lfs_staged_objects": {
+      "passed": true,
+      "tracked_files": 226,
+      "unique_objects": 222
+    },
+    "staged_source_scope": {
+      "passed": true,
+      "unexpected_generated_paths": [],
+      "non_lfs_blobs_over_10_mib": []
+    }
+  },
+  "runtime_scope": "No new gameplay, Unity build or website deployment; historical evidence is labeled separately."
+}

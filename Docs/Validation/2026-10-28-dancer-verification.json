@@ -1,0 +1,14 @@
+{
+  "animationAdvances": true,
+  "clip": "mixamo.com",
+  "length": 19.6333351,
+  "loop": true,
+  "loopCrossed": true,
+  "position": "(-3.40, 0.08, 5.50)",
+  "rootDrift": 0.0,
+  "footFloorMin": 0.07474125,
+  "footFloorMax": 0.1121491,
+  "materialsValid": true,
+  "materials": 12,
+  "meshCount": 15
+}

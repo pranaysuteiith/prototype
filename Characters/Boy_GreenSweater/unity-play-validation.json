@@ -1,0 +1,57 @@
+{
+  "playMode": true,
+  "animatorHuman": true,
+  "actions": [
+    {
+      "action": "Idle",
+      "stateMatched": true,
+      "normalizedTime": 0.2892183,
+      "handRotationDegrees": 0.0,
+      "footMovement": 3.07550727E-05,
+      "height": 1.300912,
+      "headFinite": true,
+      "animatorHuman": true
+    },
+    {
+      "action": "Walk",
+      "stateMatched": true,
+      "normalizedTime": 0.61231333,
+      "handRotationDegrees": 20.1053524,
+      "footMovement": 0.188356534,
+      "height": 1.28368843,
+      "headFinite": true,
+      "animatorHuman": true
+    },
+    {
+      "action": "Run",
+      "stateMatched": true,
+      "normalizedTime": 0.8244115,
+      "handRotationDegrees": 12.595994,
+      "footMovement": 0.06642653,
+      "height": 1.298078,
+      "headFinite": true,
+      "animatorHuman": true
+    },
+    {
+      "action": "Wave",
+      "stateMatched": true,
+      "normalizedTime": 0.352652,
+      "handRotationDegrees": 155.463409,
+      "footMovement": 0.0129416008,
+      "height": 1.28797209,
+      "headFinite": true,
+      "animatorHuman": true
+    },
+    {
+      "action": "Sit",
+      "stateMatched": true,
+      "normalizedTime": 1.02676809,
+      "handRotationDegrees": 16.042654,
+      "footMovement": 0.242106363,
+      "height": 1.25349915,
+      "headFinite": true,
+      "animatorHuman": true
+    }
+  ],
+  "errors": []
+}

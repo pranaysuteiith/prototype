@@ -1,0 +1,298 @@
+{
+  "title": "Doro \u2014 design and implementation history",
+  "prepared": "2026-11-01",
+  "historicalCutoff": "2026-10-28",
+  "timezone": "Asia/Kolkata",
+  "liveUrl": "https://doro-quiet-cafe.shrewdmoss10.chatgpt.site",
+  "sharedChat": "https://chatgpt.com/share/6ae6d37e-0650-83ec-aa1e-fd8a7e5de58a",
+  "timeline": [
+    {
+      "date": "22 Oct 2026",
+      "stage": "Connection/export probe",
+      "title": "Blender-to-Unity transfer test",
+      "summary": "BlenderBalls.fbx, a test unitypackage and an importer script exist in the early workspace. This was a pipeline probe, not the final caf\u00e9 package. Date is the local artifact timestamp.",
+      "evidence": "Local transfer-test files"
+    },
+    {
+      "date": "25 Oct 2026",
+      "stage": "Visual design",
+      "title": "Reference image \u2192 reusable style system",
+      "summary": "The shared chat starts with an uploaded style reference, asks for a neighboring coffee shop and then expands into asset guides, a 16:9 city composition and tilt-shift variants. Sunday timestamps align with the local reference-file dates.",
+      "evidence": "S01"
+    },
+    {
+      "date": "25 Oct 2026",
+      "stage": "Blender environment",
+      "title": "Reference \u2192 editable 3D caf\u00e9 crossroads",
+      "summary": "Python scripts build architecture, street furniture, vehicles, static people, detailed foliage, a painted atlas, lighting and camera; source geometry remains editable and export copies are batched.",
+      "evidence": "S03\u2013S04"
+    },
+    {
+      "date": "26 Oct 2026",
+      "stage": "Unity integration",
+      "title": "Existing scene \u2192 painted caf\u00e9 environment",
+      "summary": "Import under Assets/DoroPainted; normalize UV names before joining; rebuild URP materials; add camera controls, focus proxies and smooth depth-of-field updates without replacing existing gameplay objects.",
+      "evidence": "S05\u2013S07"
+    },
+    {
+      "date": "26 Oct 2026",
+      "stage": "Interaction and release 1",
+      "title": "Orbit, ambience and first public website",
+      "summary": "Q/E orbit and park/bird/dog ambience are added and tested. A Unity WebGL build is hosted behind a branded HTML game shell; public-link access is selected.",
+      "evidence": "S08\u2013S10"
+    },
+    {
+      "date": "27 Oct 2026",
+      "stage": "First character asset",
+      "title": "Female sheet \u2192 Blender rig and actions",
+      "summary": "The white-dress female character is built separately: 15 meshes, 38 bones, Idle/Walk/Wave and Blender/FBX deliverables.",
+      "evidence": "S01, S11"
+    },
+    {
+      "date": "28 Oct 2026",
+      "stage": "Dancing character",
+      "title": "Downloaded dance FBX \u2192 road performance",
+      "summary": "Belly Dance.fbx is imported with a 19.63-second mixamo.com take, converted to URP materials and placed near the caf\u00e9 sign and traffic signal. The intermediate external animation/retargeting steps are not recorded here.",
+      "evidence": "S12"
+    },
+    {
+      "date": "28 Oct 2026",
+      "stage": "Playable character",
+      "title": "Boy sheet \u2192 rigged reusable humanoid",
+      "summary": "The approved sheet becomes a complete mesh/rig with five actions, separate FBXs, turnarounds and Unity Avatar validation. A linked idle instance is added to a separate Blender caf\u00e9 copy.",
+      "evidence": "S13\u2013S16, S22"
+    },
+    {
+      "date": "28 Oct 2026",
+      "stage": "Playable map and release 2",
+      "title": "Arrow-key player \u2192 updated public game",
+      "summary": "A CharacterController, animation switching, camera-relative input, walking colliders and following camera are saved in the existing map. The browser game is rebuilt and published at the same public URL.",
+      "evidence": "S17\u2013S21"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Create Style Guide \u2014 original shared conversation",
+      "path": "https://chatgpt.com/share/6ae6d37e-0650-83ec-aa1e-fd8a7e5de58a",
+      "note": "shared chat; read 1 November 2026"
+    },
+    {
+      "id": "S02",
+      "title": "Current implementation conversation: Check Unity CLI status",
+      "path": "codex://threads/01a17899-1b20-7480-9de8-4a92f56fbb89",
+      "note": "user requests and recorded execution in this chat"
+    },
+    {
+      "id": "S03",
+      "title": "Original Blender environment build scripts",
+      "path": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/doro-build",
+      "note": "six inspected Python scripts"
+    },
+    {
+      "id": "S04",
+      "title": "Original Blender export manifest",
+      "path": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/outputs/doro-unity/scene-manifest.json",
+      "note": "saved source statistics"
+    },
+    {
+      "id": "S05",
+      "title": "Unity export normalization",
+      "path": "/Users/pranay/My project/AgentScripts/normalize_doro_export.py",
+      "note": "inspected UV normalization and batching code"
+    },
+    {
+      "id": "S06",
+      "title": "Imported environment manifest",
+      "path": "/Users/pranay/My project/Assets/DoroPainted/scene-manifest.json",
+      "note": "source-versus-Unity statistics"
+    },
+    {
+      "id": "S07",
+      "title": "Initial Unity Play-mode verification",
+      "path": "/Users/pranay/My project/DoroBackups/2026-10-26/play-verification.json",
+      "note": "controls, focus, materials, preservation and Editor profile"
+    },
+    {
+      "id": "S08",
+      "title": "Camera orbit verification",
+      "path": "/Users/pranay/My project/DoroBackups/2026-10-26/orbit-verification.json",
+      "note": "Q/E and follow-on controls"
+    },
+    {
+      "id": "S09",
+      "title": "Audio verification and source credits",
+      "path": "/Users/pranay/My project/DoroBackups/2026-10-26/audio-verification.json",
+      "note": "recorded looping, bark, volume, mute and signal checks"
+    },
+    {
+      "id": "S10",
+      "title": "First public browser release",
+      "path": "/Users/pranay/My project/DoroBackups/2026-10-26/browser-deployment.json",
+      "note": "recorded version-1 deployment"
+    },
+    {
+      "id": "S11",
+      "title": "Earlier female character verification",
+      "path": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/outputs/Characters/CH_Female_v001/verification.json",
+      "note": "15 meshes, 38 bones, 3 actions; no changed original objects"
+    },
+    {
+      "id": "S12",
+      "title": "Dancer integration and loop verification",
+      "path": "/Users/pranay/My project/DoroBackups/2026-10-28/dancer-verification.json",
+      "note": "loop crossing, material support, root drift and sampled feet"
+    },
+    {
+      "id": "S13",
+      "title": "Boy geometry and rig audit",
+      "path": "/Users/pranay/My project/Characters/Boy_GreenSweater/validation.json",
+      "note": "23,798 triangles; 22 bones; weights and mesh checks"
+    },
+    {
+      "id": "S14",
+      "title": "Boy FBX roundtrip verification",
+      "path": "/Users/pranay/My project/Characters/Boy_GreenSweater/fbx-validation.json",
+      "note": "all six FBXs reopened with UVs, weights and expected rig"
+    },
+    {
+      "id": "S15",
+      "title": "Unity Humanoid validation",
+      "path": "/Users/pranay/My project/Characters/Boy_GreenSweater/unity-validation.json",
+      "note": "valid human Avatar, mapped bones and five clips"
+    },
+    {
+      "id": "S16",
+      "title": "Boy animation loop and foot audit",
+      "path": "/Users/pranay/My project/Characters/Boy_GreenSweater/animation-audit.json",
+      "note": "per-frame sampled soles and endpoint bone matrices"
+    },
+    {
+      "id": "S17",
+      "title": "Playable character test",
+      "path": "/Users/pranay/My project/Characters/Boy_GreenSweater/UnityMap/play-test.json",
+      "note": "four arrow directions, grounded movement, idle, following and boundary"
+    },
+    {
+      "id": "S18",
+      "title": "Unity map preservation report",
+      "path": "/Users/pranay/My project/Characters/Boy_GreenSweater/UnityMap/preservation-report.json",
+      "note": "no missing original objects; camera transform intentionally changed"
+    },
+    {
+      "id": "S19",
+      "title": "Final WebGL build summary",
+      "path": "/Users/pranay/My project/BuildArtifacts/browser-release-build-summary.json",
+      "note": "successful incremental build, zero errors, retained warnings"
+    },
+    {
+      "id": "S20",
+      "title": "Public version-2 deployment evidence",
+      "path": "/Users/pranay/My project/DoroBackups/2026-10-28/browser-deployment-v2.json",
+      "note": "successful deployment and stated verification boundaries"
+    },
+    {
+      "id": "S21",
+      "title": "Public browser source and loader",
+      "path": "/Users/pranay/My project/Sites/doro-cafe",
+      "note": "HTML/CSS/JS, public distribution and hosting manifest"
+    },
+    {
+      "id": "S22",
+      "title": "Blender caf\u00e9 preservation after boy integration",
+      "path": "/Users/pranay/My project/Characters/Boy_GreenSweater/cafe-validation.json",
+      "note": "all 1,633 original objects retained; separate scene copy"
+    }
+  ],
+  "generationOutputs": [
+    "Isometric Shop and Coffee Style Guide",
+    "Isometric Coffee Shop Street Scene",
+    "Pastel Caf\u00e9 Isometric Asset Style Sheet",
+    "Coffee Shop Turnaround and Asset Style Sheet",
+    "Isometric Coffee Shop Asset Sheet",
+    "Cosy Isometric Coffee Street",
+    "Tilt-Shift Coffee Shop Diorama",
+    "Tilt-Shift City Coffee Corner",
+    "Isometric Coffee Shop Concept Sheet",
+    "Cute Character Turnaround and Parts Sheet",
+    "Stylised 3D Character Reference Sheet"
+  ],
+  "stats": {
+    "environmentSourceMeshes": 1595,
+    "environmentExportMeshes": 28,
+    "sourceTriangles": 473636,
+    "unityEnvironmentTriangles": 472140,
+    "boyTriangles": 23798,
+    "boyBones": 22,
+    "boyHeightMeters": 1.2182997465133667,
+    "releaseVersion": 2
+  },
+  "gallery": [
+    {
+      "file": "images/concept-street.png",
+      "title": "Cosy Isometric Coffee Street",
+      "caption": "Generated 16:9 city composition, confirmed by the shared chat.",
+      "sourcePath": "/Users/pranay/Downloads/Cosy Isometric Coffee Street.png"
+    },
+    {
+      "file": "images/concept-tilt.png",
+      "title": "Tilt-Shift City Coffee Corner",
+      "caption": "Generated focus study: caf\u00e9 sharp, near and distant surroundings soft.",
+      "sourcePath": "/Users/pranay/Downloads/Tilt-Shift City Coffee Corner.png"
+    },
+    {
+      "file": "images/blender-sharp.png",
+      "title": "Blender environment \u2014 sharp",
+      "caption": "Actual 3D render, with depth of field disabled for inspection.",
+      "sourcePath": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/outputs/doro-style-sharp.png"
+    },
+    {
+      "file": "images/blender-focus.png",
+      "title": "Blender environment \u2014 miniature focus",
+      "caption": "Actual 3D render with art-directed preview blur.",
+      "sourcePath": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/outputs/doro-style-preview.png"
+    },
+    {
+      "file": "images/female-reference.png",
+      "title": "Female character turnaround",
+      "caption": "Generated modeling reference; not an executable rig or a dimensionally exact blueprint.",
+      "sourcePath": "/Users/pranay/Downloads/Cute Character Turnaround and Parts Sheet.png"
+    },
+    {
+      "file": "images/female-model.png",
+      "title": "Earlier female Blender asset",
+      "caption": "Actual T-pose render from the separate 38-bone character effort.",
+      "sourcePath": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/outputs/Characters/CH_Female_v001/CH_Isometric_TPose.png"
+    },
+    {
+      "file": "images/boy-reference.png",
+      "title": "Green-sweater boy reference",
+      "caption": "Generated character sheet used as the approved appearance reference.",
+      "sourcePath": "/Users/pranay/Downloads/Stylised 3D Character Reference Sheet.png"
+    },
+    {
+      "file": "images/boy-model.png",
+      "title": "Green-sweater boy model",
+      "caption": "Actual Blender asset: 23,798 triangles and a 22-bone rig.",
+      "sourcePath": "/Users/pranay/My project/Characters/Boy_GreenSweater/Previews/Isometric.png"
+    },
+    {
+      "file": "images/boy-walk.gif",
+      "title": "In-place walking preview",
+      "caption": "Rendered Blender animation, separate from Unity world movement.",
+      "sourcePath": "/Users/pranay/My project/Characters/Boy_GreenSweater/Previews/Walking.gif"
+    },
+    {
+      "file": "images/unity-map.png",
+      "title": "Playable boy in Unity",
+      "caption": "Actual Unity camera render after map integration.",
+      "sourcePath": "/Users/pranay/My project/Characters/Boy_GreenSweater/Previews/Unity_PlayableBoy.png"
+    },
+    {
+      "file": "images/published-v2.jpg",
+      "title": "Published browser game \u2014 version 2",
+      "caption": "Production screenshot saved after the 28 October deployment.",
+      "sourcePath": "/Users/pranay/My project/BuildArtifacts/doro-cafe-public-v2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "file": "Boy_GreenSweater_Rigged.fbx",
+    "bytes": 3026700,
+    "armatures": 1,
+    "bones": 22,
+    "meshObjects": 29,
+    "triangles": 23798,
+    "actions": [
+      "ARM_Boy_GreenSweater|ARM_Boy_GreenSweater|ANIM_Idle",
+      "ARM_Boy_GreenSweater|ARM_Boy_GreenSweater|ANIM_Run",
+      "ARM_Boy_GreenSweater|ARM_Boy_GreenSweater|ANIM_Sit",
+      "ARM_Boy_GreenSweater|ARM_Boy_GreenSweater|ANIM_Walk",
+      "ARM_Boy_GreenSweater|ARM_Boy_GreenSweater|ANIM_Wave"
+    ],
+    "allMeshesHaveUV": true,
+    "allSkinnedMeshesHaveWeights": true
+  },
+  {
+    "file": "Boy_Idle.fbx",
+    "bytes": 2373884,
+    "armatures": 1,
+    "bones": 22,
+    "meshObjects": 29,
+    "triangles": 23798,
+    "actions": [
+      "ARM_Boy_GreenSweater|ANIM_Idle"
+    ],
+    "allMeshesHaveUV": true,
+    "allSkinnedMeshesHaveWeights": true
+  },
+  {
+    "file": "Boy_Run.fbx",
+    "bytes": 2275276,
+    "armatures": 1,
+    "bones": 22,
+    "meshObjects": 29,
+    "triangles": 23798,
+    "actions": [
+      "ARM_Boy_GreenSweater|ANIM_Run"
+    ],
+    "allMeshesHaveUV": true,
+    "allSkinnedMeshesHaveWeights": true
+  },
+  {
+    "file": "Boy_Sit.fbx",
+    "bytes": 2370652,
+    "armatures": 1,
+    "bones": 22,
+    "meshObjects": 29,
+    "triangles": 23798,
+    "actions": [
+      "ARM_Boy_GreenSweater|ANIM_Sit"
+    ],
+    "allMeshesHaveUV": true,
+    "allSkinnedMeshesHaveWeights": true
+  },
+  {
+    "file": "Boy_Walk.fbx",
+    "bytes": 2294284,
+    "armatures": 1,
+    "bones": 22,
+    "meshObjects": 29,
+    "triangles": 23798,
+    "actions": [
+      "ARM_Boy_GreenSweater|ANIM_Walk"
+    ],
+    "allMeshesHaveUV": true,
+    "allSkinnedMeshesHaveWeights": true
+  },
+  {
+    "file": "Boy_Wave.fbx",
+    "bytes": 2398028,
+    "armatures": 1,
+    "bones": 22,
+    "meshObjects": 29,
+    "triangles": 23798,
+    "actions": [
+      "ARM_Boy_GreenSweater|ANIM_Wave"
+    ],
+    "allMeshesHaveUV": true,
+    "allSkinnedMeshesHaveWeights": true
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "url": "https://doro-quiet-cafe.shrewdmoss10.chatgpt.site",
+  "project_id": "appgprj_6adf90f129d481918d6e692b075c485e",
+  "version_id": "appgprj_6adf90f129d481918d6e692b075c485e~appgver_ccbe7773adcc8191a675407be53e1c7e",
+  "deployment_id": "appgdep_6adf968594f08191b5295dd58c85ddcd",
+  "commit_sha": "0e9fb24e1cb0ad091a13a365691a3246b9527377",
+  "access": "public",
+  "status": "succeeded",
+  "verification": {
+    "hostedGameRendered": true,
+    "localWebGLQOrbit": true,
+    "hostedMTogglesSound": true,
+    "productionRuntimeErrorsObserved": 0,
+    "audioChecks": "audio-verification.json",
+    "screenshot": "BuildArtifacts/doro-cafe-public.png",
+    "desktopOnlyTested": true
+  }
+}

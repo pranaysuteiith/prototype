@@ -1,0 +1,8 @@
+{
+  "release": "r20261028-7b81b344e4",
+  "sceneDataSHA256": "7b81b344e438302115279d4f861113db04ab19c68319682a36604c02823dcca2",
+  "compressedSceneBytes": 39741424,
+  "chunks": 3,
+  "allFilesUnder25MiB": true,
+  "wasmValid": true
+}

@@ -1,0 +1,12 @@
+{
+  "original_objects_changed": [],
+  "unweighted_vertices": 0,
+  "mesh_objects": 15,
+  "bones": 38,
+  "actions": [
+    "CH_Idle",
+    "CH_Walk",
+    "CH_Wave"
+  ],
+  "fbx_bytes": 6161004
+}

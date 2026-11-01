@@ -1,0 +1,521 @@
+{
+  "description": "Authoring assets and executable sources; full tree also includes materials, textures, metadata and validation records.",
+  "files": [
+    {
+      "path": "AgentScripts/DoroAudioVerify.cs",
+      "bytes": 1395
+    },
+    {
+      "path": "AgentScripts/DoroBrowserSetup.cs",
+      "bytes": 1669
+    },
+    {
+      "path": "AgentScripts/DoroDancerGround.cs",
+      "bytes": 1382
+    },
+    {
+      "path": "AgentScripts/DoroDancerSetup.cs",
+      "bytes": 6210
+    },
+    {
+      "path": "AgentScripts/DoroDancerVerify.cs",
+      "bytes": 2367
+    },
+    {
+      "path": "AgentScripts/DoroOrbitVerify.cs",
+      "bytes": 4151
+    },
+    {
+      "path": "AgentScripts/DoroVerify.cs",
+      "bytes": 8985
+    },
+    {
+      "path": "AgentScripts/normalize_doro_export.py",
+      "bytes": 3009
+    },
+    {
+      "path": "Assets/DoroPainted/Characters/BellyDancer/Models/Belly Dance.fbx",
+      "bytes": 7444848
+    },
+    {
+      "path": "Assets/DoroPainted/Characters/BoyGreenSweater/Models/Boy_GreenSweater_Rigged.fbx",
+      "bytes": 3026700
+    },
+    {
+      "path": "Assets/DoroPainted/Editor/DoroSceneSetup.cs",
+      "bytes": 13385
+    },
+    {
+      "path": "Assets/DoroPainted/Models/DoroCrossroads.fbx",
+      "bytes": 15915804
+    },
+    {
+      "path": "Assets/DoroPainted/Scripts/DoroAmbientSound.cs",
+      "bytes": 2590
+    },
+    {
+      "path": "Assets/DoroPainted/Scripts/DoroBoyWalker.cs",
+      "bytes": 3188
+    },
+    {
+      "path": "Assets/DoroPainted/Scripts/DoroCenterFocus.cs",
+      "bytes": 3526
+    },
+    {
+      "path": "Assets/DoroPainted/Scripts/DoroPanZoom.cs",
+      "bytes": 5424
+    },
+    {
+      "path": "Assets/DoroPainted/Scripts/DoroViewLighting.cs",
+      "bytes": 1639
+    },
+    {
+      "path": "Assets/Scenes/GetStarted_Scene.unity",
+      "bytes": 235589
+    },
+    {
+      "path": "Assets/SourceFiles/InputSystem/StarterAssetsInputs.cs",
+      "bytes": 1564
+    },
+    {
+      "path": "Assets/SourceFiles/Models/Box_350x250x200_Mesh.fbx",
+      "bytes": 44416
+    },
+    {
+      "path": "Assets/SourceFiles/Models/Box_350x250x300_Mesh.fbx",
+      "bytes": 46016
+    },
+    {
+      "path": "Assets/SourceFiles/Models/CubeHollow.fbx",
+      "bytes": 18672
+    },
+    {
+      "path": "Assets/SourceFiles/Models/Platform.fbx",
+      "bytes": 21216
+    },
+    {
+      "path": "Assets/SourceFiles/Models/Stairs_650_400_300_Mesh.fbx",
+      "bytes": 83088
+    },
+    {
+      "path": "Assets/SourceFiles/Models/Star.fbx",
+      "bytes": 16928
+    },
+    {
+      "path": "Assets/SourceFiles/Scripts/MotionAudioController.cs",
+      "bytes": 3231
+    },
+    {
+      "path": "Assets/SourceFiles/Scripts/Pickup.cs",
+      "bytes": 1492
+    },
+    {
+      "path": "Assets/SourceFiles/Scripts/RespawnPlayer.cs",
+      "bytes": 3285
+    },
+    {
+      "path": "Assets/SourceFiles/Scripts/ThirdPersonController.cs",
+      "bytes": 15736
+    },
+    {
+      "path": "Assets/SourceFiles/Scripts/UpdateCollectibleCount.cs",
+      "bytes": 1679
+    },
+    {
+      "path": "Assets/SourceFiles/StarterAssets/ThirdPersonController/Character/Animations/Jump--InAir.anim.fbx",
+      "bytes": 920880
+    },
+    {
+      "path": "Assets/SourceFiles/StarterAssets/ThirdPersonController/Character/Animations/Jump--Jump.anim.fbx",
+      "bytes": 783936
+    },
+    {
+      "path": "Assets/SourceFiles/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N.anim.fbx",
+      "bytes": 605520
+    },
+    {
+      "path": "Assets/SourceFiles/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N_Land.anim.fbx",
+      "bytes": 605552
+    },
+    {
+      "path": "Assets/SourceFiles/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N.anim.fbx",
+      "bytes": 652672
+    },
+    {
+      "path": "Assets/SourceFiles/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N_Land.anim.fbx",
+      "bytes": 652800
+    },
+    {
+      "path": "Assets/SourceFiles/StarterAssets/ThirdPersonController/Character/Animations/Stand--Idle.anim.fbx",
+      "bytes": 1123312
+    },
+    {
+      "path": "Assets/SourceFiles/StarterAssets/ThirdPersonController/Character/Models/Armature.fbx",
+      "bytes": 5021936
+    },
+    {
+      "path": "Assets/SourceFiles/TimmyRobot/Models/TimmyRobot.fbx",
+      "bytes": 347088
+    },
+    {
+      "path": "Assets/Tutorials/Settings/Editor/TutorialCallbacks.cs",
+      "bytes": 13390
+    },
+    {
+      "path": "Assets/Tutorials/Styles/ApplyCustomThemeHelper.cs",
+      "bytes": 837
+    },
+    {
+      "path": "Blender/ConnectionProbe/BlenderBalls.fbx",
+      "bytes": 157324
+    },
+    {
+      "path": "Blender/ConnectionProbe/ImportBlenderBalls.cs",
+      "bytes": 3429
+    },
+    {
+      "path": "Blender/Environment/Scripts/build_scene.py",
+      "bytes": 11498
+    },
+    {
+      "path": "Blender/Environment/Scripts/camera_scene.py",
+      "bytes": 3840
+    },
+    {
+      "path": "Blender/Environment/Scripts/detail_scene.py",
+      "bytes": 13771
+    },
+    {
+      "path": "Blender/Environment/Scripts/export_scene.py",
+      "bytes": 4703
+    },
+    {
+      "path": "Blender/Environment/Scripts/finish_foliage.py",
+      "bytes": 3255
+    },
+    {
+      "path": "Blender/Environment/Scripts/refine_scene.py",
+      "bytes": 4173
+    },
+    {
+      "path": "Blender/Environment/UnityExport/Editor/DoroSceneSetup.cs",
+      "bytes": 8682
+    },
+    {
+      "path": "Blender/Environment/UnityExport/Models/DoroCrossroads.fbx",
+      "bytes": 17091788
+    },
+    {
+      "path": "Blender/Environment/UnityExport/Scripts/DoroCenterFocus.cs",
+      "bytes": 3004
+    },
+    {
+      "path": "Blender/Environment/UnityExport/Scripts/DoroPanZoom.cs",
+      "bytes": 4013
+    },
+    {
+      "path": "Blender/Environment/doro-style.blend",
+      "bytes": 15193526
+    },
+    {
+      "path": "Blender/FemaleCharacter/Asset/CH_Female_Rigged.blend",
+      "bytes": 6288102
+    },
+    {
+      "path": "Blender/FemaleCharacter/Asset/CH_Female_Rigged.fbx",
+      "bytes": 6161004
+    },
+    {
+      "path": "Blender/FemaleCharacter/Scripts/animate_character.py",
+      "bytes": 4955
+    },
+    {
+      "path": "Blender/FemaleCharacter/Scripts/model_character.py",
+      "bytes": 17176
+    },
+    {
+      "path": "Blender/FemaleCharacter/Scripts/preview_character.py",
+      "bytes": 2805
+    },
+    {
+      "path": "Blender/FemaleCharacter/Scripts/refine_character.py",
+      "bytes": 4148
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Animations/Boy_Idle.fbx",
+      "bytes": 2373884
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Animations/Boy_Run.fbx",
+      "bytes": 2275276
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Animations/Boy_Sit.fbx",
+      "bytes": 2370652
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Animations/Boy_Walk.fbx",
+      "bytes": 2294284
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Animations/Boy_Wave.fbx",
+      "bytes": 2398028
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Blender/Boy_GreenSweater.blend",
+      "bytes": 1714115
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Blender/Cafe_With_Boy_GreenSweater.blend",
+      "bytes": 15173012
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Models/Boy_GreenSweater_Rigged.fbx",
+      "bytes": 3026700
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/UnityMap/SetupWalker.cs",
+      "bytes": 6263
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/UnityMap/TestWalker.cs",
+      "bytes": 4668
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/audit_boy.py",
+      "bytes": 1717
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/build_boy.py",
+      "bytes": 32147
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/cafe_preview.py",
+      "bytes": 1052
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/fbx_roundtrip.py",
+      "bytes": 1089
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/final_refinements.py",
+      "bytes": 3725
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/finalize_uv.py",
+      "bytes": 1929
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/refine_source.py",
+      "bytes": 4544
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/render_boy.py",
+      "bytes": 1732
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/unity_import_verify.cs",
+      "bytes": 6338
+    },
+    {
+      "path": "Characters/Boy_GreenSweater/Work/unity_play_verify.cs",
+      "bytes": 3584
+    },
+    {
+      "path": "Docs/Doro-Project-History/compile_history.py",
+      "bytes": 47221
+    },
+    {
+      "path": "Docs/Doro-Project-History/index.html",
+      "bytes": 52215
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-boy/audit_boy.py",
+      "bytes": 1717
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-boy/build_boy.py",
+      "bytes": 32147
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-boy/cafe_preview.py",
+      "bytes": 1052
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-boy/fbx_roundtrip.py",
+      "bytes": 1089
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-boy/finalize_uv.py",
+      "bytes": 1929
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-boy/render_boy.py",
+      "bytes": 1732
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-environment/build_scene.py",
+      "bytes": 11498
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-environment/camera_scene.py",
+      "bytes": 3840
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-environment/detail_scene.py",
+      "bytes": 13771
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-environment/export_scene.py",
+      "bytes": 4703
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-environment/finish_foliage.py",
+      "bytes": 3255
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-environment/refine_scene.py",
+      "bytes": 4173
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-female/animate_character.py",
+      "bytes": 4955
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-female/model_character.py",
+      "bytes": 17176
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-female/preview_character.py",
+      "bytes": 2805
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/blender-female/refine_character.py",
+      "bytes": 4148
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/browser-shell/app.js",
+      "bytes": 4684
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/browser-shell/index.html",
+      "bytes": 3698
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/browser-shell/prepare_playable_site.py",
+      "bytes": 2211
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/browser-shell/style.css",
+      "bytes": 6680
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/connection-probe/ImportBlenderBalls.cs",
+      "bytes": 3429
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/DoroAudioVerify.cs",
+      "bytes": 1395
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/DoroBrowserSetup.cs",
+      "bytes": 1669
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/DoroDancerGround.cs",
+      "bytes": 1382
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/DoroDancerSetup.cs",
+      "bytes": 6210
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/DoroDancerVerify.cs",
+      "bytes": 2367
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/DoroOrbitVerify.cs",
+      "bytes": 4151
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/DoroVerify.cs",
+      "bytes": 8985
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/SetupWalker.cs",
+      "bytes": 6263
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/TestWalker.cs",
+      "bytes": 4668
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/normalize_doro_export.py",
+      "bytes": 3009
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/unity_import_verify.cs",
+      "bytes": 6338
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-integration/unity_play_verify.cs",
+      "bytes": 3584
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-runtime/DoroAmbientSound.cs",
+      "bytes": 2590
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-runtime/DoroBoyWalker.cs",
+      "bytes": 3188
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-runtime/DoroCenterFocus.cs",
+      "bytes": 3526
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-runtime/DoroPanZoom.cs",
+      "bytes": 5424
+    },
+    {
+      "path": "Docs/Doro-Project-History/sources/code/unity-runtime/DoroViewLighting.cs",
+      "bytes": 1639
+    },
+    {
+      "path": "Packages/manifest.json",
+      "bytes": 2089
+    },
+    {
+      "path": "Packages/packages-lock.json",
+      "bytes": 14915
+    },
+    {
+      "path": "ProjectSettings/ProjectVersion.txt",
+      "bytes": 83
+    },
+    {
+      "path": "Sites/doro-cafe/dist/app.js",
+      "bytes": 4684
+    },
+    {
+      "path": "Sites/doro-cafe/dist/index.html",
+      "bytes": 3698
+    },
+    {
+      "path": "Sites/doro-cafe/dist/style.css",
+      "bytes": 6680
+    },
+    {
+      "path": "Tools/blender_probe.py",
+      "bytes": 277
+    },
+    {
+      "path": "Tools/check_repository.py",
+      "bytes": 1929
+    },
+    {
+      "path": "Tools/prepare_web_release.py",
+      "bytes": 3263
+    }
+  ]
+}

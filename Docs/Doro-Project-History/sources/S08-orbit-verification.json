@@ -1,0 +1,37 @@
+[
+  {
+    "test": "Q orbits left",
+    "pass": true,
+    "degrees": -83.04112
+  },
+  {
+    "test": "Orbit preserves pivot, distance and height",
+    "pass": true
+  },
+  {
+    "test": "Camera remains aimed at pivot",
+    "pass": true
+  },
+  {
+    "test": "E orbits right",
+    "pass": true,
+    "degrees": 18.4281712
+  },
+  {
+    "test": "Q+E cancel",
+    "pass": true
+  },
+  {
+    "test": "Pan works after orbit",
+    "pass": true
+  },
+  {
+    "test": "Zoom works after orbit",
+    "pass": true
+  },
+  {
+    "test": "Autofocus follows rotated view",
+    "pass": true,
+    "subject": "FocusProxy_GEO_Cafe"
+  }
+]

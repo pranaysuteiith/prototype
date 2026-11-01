@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "command": "command script",
+  "data": {
+    "command": "script",
+    "parameters": {
+      "code": "var path=\"Assets/DoroPainted/Characters/BoyGreenSweater/Models/Boy_GreenSweater_Rigged.fbx\";var so=new UnityEditor.SerializedObject(UnityEditor.AssetImporter.GetAtPath(path));var materials=UnityEditor.AssetDatabase.FindAssets(\"t:Material\",new[]{\"Assets/DoroPainted/Characters/BoyGreenSweater/Materials\"}).Select(g=>UnityEditor.AssetDatabase.LoadAssetAtPath<Material>(UnityEditor.AssetDatabase.GUIDToAssetPath(g))).ToArray();var report=new{playing=UnityEditor.EditorApplication.isPlaying,compiling=UnityEditor.EditorApplication.isCompiling,scene=UnityEngine.SceneManagement.SceneManager.GetActiveScene().path,animationImportErrors=so.FindProperty(\"m_AnimationImportErrors\").stringValue,animationImportWarnings=so.FindProperty(\"m_AnimationImportWarnings\").stringValue,animationRetargetingWarnings=so.FindProperty(\"m_AnimationRetargetingWarnings\").stringValue,invalidMaterials=materials.Where(m=>!m.shader||!m.shader.isSupported||m.shader.name.Contains(\"Error\")).Select(m=>m.name).ToArray()};var j=Newtonsoft.Json.JsonConvert.SerializeObject(report,Newtonsoft.Json.Formatting.Indented);System.IO.File.WriteAllText(\"Characters/Boy_GreenSweater/unity-final-status.json\",j);return j;"
+    },
+    "result": {
+      "output": null,
+      "diagnostics": [],
+      "success": true,
+      "result": "{\n  \"playing\": false,\n  \"compiling\": false,\n  \"scene\": \"Assets/Scenes/GetStarted_Scene.unity\",\n  \"animationImportErrors\": \"\",\n  \"animationImportWarnings\": \"\",\n  \"animationRetargetingWarnings\": \"\",\n  \"invalidMaterials\": []\n}"
+    },
+    "target": {
+      "host": "127.0.0.1",
+      "port": 7800,
+      "projectPath": "/Users/pranay/My project"
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

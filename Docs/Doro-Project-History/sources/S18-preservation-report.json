@@ -1,0 +1,13 @@
+{
+  "scene": "Assets/Scenes/GetStarted_Scene.unity",
+  "missingOriginalObjects": [],
+  "changedOriginalTransformsOrActiveState": [
+    "Doro Game Camera"
+  ],
+  "playerSaved": true,
+  "spawn": [
+    2.5,
+    0.078,
+    5.2
+  ]
+}

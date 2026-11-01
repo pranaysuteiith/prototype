@@ -1,0 +1,2417 @@
+[
+  {
+    "id": "32575:256",
+    "name": "Directional Light",
+    "position": [
+      0.0,
+      3.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32475:256",
+    "name": "Ground",
+    "position": [
+      0.0,
+      -0.02,
+      0.0
+    ],
+    "scale": [
+      30.0,
+      10.0,
+      30.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32449:256",
+    "name": "01_Box_Yellow",
+    "position": [
+      -6.88,
+      5.5,
+      -7.29
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32445:256",
+    "name": "02_Box_Orange",
+    "position": [
+      1.21,
+      5.15,
+      -8.91
+    ],
+    "scale": [
+      0.75251,
+      0.5052567,
+      1.03159451
+    ],
+    "active": true
+  },
+  {
+    "id": "32481:256",
+    "name": "03_Box_Orange",
+    "position": [
+      7.41,
+      5.08,
+      -2.90999985
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      0.6118701
+    ],
+    "active": true
+  },
+  {
+    "id": "32500:256",
+    "name": "04_Box_Red",
+    "position": [
+      2.17624855,
+      6.64,
+      7.46
+    ],
+    "scale": [
+      1.04640019,
+      1.0,
+      0.9950001
+    ],
+    "active": true
+  },
+  {
+    "id": "32466:256",
+    "name": "Collectibles",
+    "position": [
+      -8.285414,
+      7.42095947,
+      -1.15728045
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32461:256",
+    "name": "Collectible_Star (1)",
+    "position": [
+      -6.78541374,
+      6.97095966,
+      -7.30728
+    ],
+    "scale": [
+      5.0,
+      5.0,
+      5.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32507:256",
+    "name": "Star_Model",
+    "position": [
+      -6.784588,
+      6.95973,
+      -7.30584764
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32460:256",
+    "name": "Collectible_Star (2)",
+    "position": [
+      7.46458626,
+      8.580959,
+      -3.00728
+    ],
+    "scale": [
+      5.0,
+      5.0,
+      5.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32503:256",
+    "name": "Star_Model",
+    "position": [
+      7.46488476,
+      8.580959,
+      -3.00565386
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32501:256",
+    "name": "Collectible_Star (3)",
+    "position": [
+      2.0224,
+      9.3,
+      9.20561
+    ],
+    "scale": [
+      5.0,
+      5.0,
+      5.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32457:256",
+    "name": "Star_Model",
+    "position": [
+      2.02178669,
+      9.288771,
+      9.207146
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32662:256",
+    "name": "Tutorial",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32627:256",
+    "name": "Hidden_Area_1",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32607:256",
+    "name": "Platform_Green_Floating",
+    "position": [
+      -9.58,
+      9.41,
+      31.0
+    ],
+    "scale": [
+      1.49654,
+      2.0,
+      0.173764944
+    ],
+    "active": false
+  },
+  {
+    "id": "32642:256",
+    "name": "Collectible_Star (4)",
+    "position": [
+      -9.885414,
+      11.23096,
+      30.84272
+    ],
+    "scale": [
+      5.0,
+      5.0,
+      5.0
+    ],
+    "active": false
+  },
+  {
+    "id": "32649:256",
+    "name": "Star_Model",
+    "position": [
+      -9.886027,
+      11.21973,
+      30.8442554
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32566:256",
+    "name": "Hidden_Area_2",
+    "position": [
+      -2.0,
+      10.0,
+      7.19
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32695:256",
+    "name": "Secret_Area",
+    "position": [
+      -4.0153,
+      11.14,
+      -1.71968889
+    ],
+    "scale": [
+      0.78787,
+      0.78787,
+      0.78787
+    ],
+    "active": false
+  },
+  {
+    "id": "32541:256",
+    "name": "Audio Reverb Zone",
+    "position": [
+      -11.5552158,
+      9.832136,
+      -18.98192
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32502:256",
+    "name": "Cube_Hollow",
+    "position": [
+      -11.752183,
+      9.666683,
+      -17.9340534
+    ],
+    "scale": [
+      1.26924491,
+      1.26924491,
+      1.26924491
+    ],
+    "active": true
+  },
+  {
+    "id": "32513:256",
+    "name": "Colliders",
+    "position": [
+      -11.752183,
+      9.666683,
+      -17.9340534
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32476:256",
+    "name": "Collectible_Star (5)",
+    "position": [
+      -11.51,
+      11.02,
+      -18.96728
+    ],
+    "scale": [
+      5.0,
+      5.0,
+      5.0
+    ],
+    "active": false
+  },
+  {
+    "id": "32465:256",
+    "name": "Star_Model",
+    "position": [
+      -11.51,
+      11.02,
+      -18.96728
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32532:256",
+    "name": "Hidden_Area_3",
+    "position": [
+      0.0,
+      5.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32585:256",
+    "name": "Platform_Teal_Floating",
+    "position": [
+      29.0,
+      9.46,
+      4.1
+    ],
+    "scale": [
+      1.49654,
+      2.0,
+      0.173764944
+    ],
+    "active": false
+  },
+  {
+    "id": "32589:256",
+    "name": "Collectible_Star (6)",
+    "position": [
+      29.414587,
+      11.6209593,
+      4.07
+    ],
+    "scale": [
+      5.0,
+      5.0,
+      5.0
+    ],
+    "active": false
+  },
+  {
+    "id": "32570:256",
+    "name": "Star_Model",
+    "position": [
+      29.4139748,
+      11.60973,
+      4.071536
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32521:256",
+    "name": "SpawnPoint_1",
+    "position": [
+      -8.06,
+      6.27,
+      9.91
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32638:256",
+    "name": "SpawnPoint_2",
+    "position": [
+      16.33,
+      6.0,
+      4.07
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32612:256",
+    "name": "Postprocessing",
+    "position": [
+      0.150423065,
+      1.90516186,
+      -0.9882866
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32550:256",
+    "name": "Doro Painted Cafe - Imported",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32672:256",
+    "name": "Doro Painted Crossroads",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31462:256",
+    "name": "GEO_Background_tree_east",
+    "position": [
+      -13.2,
+      1.865,
+      -9.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31458:256",
+    "name": "GEO_Background_tree_west",
+    "position": [
+      13.0,
+      1.865,
+      -8.2
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31454:256",
+    "name": "GEO_Bakery_west",
+    "position": [
+      13.0,
+      2.78,
+      -4.8
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31450:256",
+    "name": "GEO_Blue_little_hatchback",
+    "position": [
+      -8.8,
+      0.67,
+      -1.1
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31446:256",
+    "name": "GEO_Bookshop_east",
+    "position": [
+      -14.0,
+      3.18,
+      -4.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31442:256",
+    "name": "GEO_Cafe",
+    "position": [
+      0.8,
+      3.25,
+      -2.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31438:256",
+    "name": "GEO_Customer_coral",
+    "position": [
+      -1.5,
+      1.06000006,
+      2.0
+    ],
+    "scale": [
+      0.17,
+      0.13,
+      0.16
+    ],
+    "active": true
+  },
+  {
+    "id": "31434:256",
+    "name": "GEO_Customer_denim",
+    "position": [
+      -0.83,
+      1.06000006,
+      2.05
+    ],
+    "scale": [
+      0.17,
+      0.13,
+      0.16
+    ],
+    "active": true
+  },
+  {
+    "id": "31430:256",
+    "name": "GEO_Customer_mustard",
+    "position": [
+      -0.2,
+      1.06000006,
+      2.15
+    ],
+    "scale": [
+      0.170000032,
+      0.13,
+      0.16
+    ],
+    "active": true
+  },
+  {
+    "id": "31426:256",
+    "name": "GEO_Far_pedestrian",
+    "position": [
+      -12.0,
+      1.06000006,
+      -2.2
+    ],
+    "scale": [
+      0.17,
+      0.13,
+      0.16
+    ],
+    "active": true
+  },
+  {
+    "id": "31422:256",
+    "name": "GEO_Far_tree",
+    "position": [
+      1.0,
+      1.865,
+      -12.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31418:256",
+    "name": "GEO_Foreground_atelier",
+    "position": [
+      12.0,
+      2.28,
+      13.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31414:256",
+    "name": "GEO_Foreground_tree",
+    "position": [
+      5.5,
+      1.459,
+      12.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31410:256",
+    "name": "GEO_Ivy_and_Garden",
+    "position": [
+      6.33,
+      0.315,
+      -5.7
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31406:256",
+    "name": "GEO_Laptop_visitor_coral",
+    "position": [
+      0.7,
+      0.950000048,
+      2.9
+    ],
+    "scale": [
+      0.17,
+      0.15,
+      0.15
+    ],
+    "active": true
+  },
+  {
+    "id": "31402:256",
+    "name": "GEO_Lime_tree_east",
+    "position": [
+      -3.5,
+      1.517,
+      -4.9
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31398:256",
+    "name": "GEO_Lime_tree_terrace",
+    "position": [
+      8.0,
+      1.43,
+      1.7
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31394:256",
+    "name": "GEO_Lime_tree_west",
+    "position": [
+      6.0,
+      1.865,
+      -5.7
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31390:256",
+    "name": "GEO_Pedestrian_blue",
+    "position": [
+      -2.1,
+      1.06000006,
+      3.8
+    ],
+    "scale": [
+      0.170000032,
+      0.13,
+      0.16
+    ],
+    "active": true
+  },
+  {
+    "id": "31386:256",
+    "name": "GEO_Pedestrian_yellow",
+    "position": [
+      7.9,
+      1.06000006,
+      3.1
+    ],
+    "scale": [
+      0.17,
+      0.13,
+      0.16
+    ],
+    "active": true
+  },
+  {
+    "id": "31382:256",
+    "name": "GEO_Red_little_hatchback",
+    "position": [
+      7.0,
+      0.67,
+      6.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31378:256",
+    "name": "GEO_Roads_and_Street",
+    "position": [
+      0.0,
+      -0.5,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31374:256",
+    "name": "GEO_Seated_visitor_blue",
+    "position": [
+      6.9,
+      0.950000048,
+      -1.0
+    ],
+    "scale": [
+      0.17,
+      0.15,
+      0.15
+    ],
+    "active": true
+  },
+  {
+    "id": "31370:256",
+    "name": "GEO_Seated_visitor_ivory",
+    "position": [
+      5.7,
+      0.950000048,
+      -3.0
+    ],
+    "scale": [
+      0.17,
+      0.15,
+      0.15
+    ],
+    "active": true
+  },
+  {
+    "id": "31366:256",
+    "name": "GEO_South_east_shop",
+    "position": [
+      -14.0,
+      2.38,
+      13.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31362:256",
+    "name": "GEO_Terrace",
+    "position": [
+      5.9,
+      0.48,
+      2.9
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31358:256",
+    "name": "GEO_Townhouse_back",
+    "position": [
+      1.0,
+      2.78,
+      -12.8
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "31354:256",
+    "name": "GEO_Yellow_distant_hatchback",
+    "position": [
+      -6.1,
+      0.67,
+      -10.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32660:256",
+    "name": "Focus Colliders",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32667:256",
+    "name": "FocusProxy_GEO_Background_tree_east",
+    "position": [
+      -13.2423706,
+      4.975192,
+      -8.998764
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32693:256",
+    "name": "FocusProxy_GEO_Background_tree_west",
+    "position": [
+      12.9649258,
+      4.934534,
+      -8.195012
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32630:256",
+    "name": "FocusProxy_GEO_Bakery_west",
+    "position": [
+      13.0,
+      2.93500018,
+      -4.36
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32547:256",
+    "name": "FocusProxy_GEO_Blue_little_hatchback",
+    "position": [
+      -8.8,
+      0.840000033,
+      -1.09
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32619:256",
+    "name": "FocusProxy_GEO_Bookshop_east",
+    "position": [
+      -14.0,
+      3.335,
+      -4.06
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32684:256",
+    "name": "FocusProxy_GEO_Cafe",
+    "position": [
+      0.8,
+      3.25,
+      -2.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32610:256",
+    "name": "FocusProxy_GEO_Customer_coral",
+    "position": [
+      -1.5047884,
+      1.23750007,
+      2.03971243
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32596:256",
+    "name": "FocusProxy_GEO_Customer_denim",
+    "position": [
+      -0.826006651,
+      1.2375,
+      2.0898
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32633:256",
+    "name": "FocusProxy_GEO_Customer_mustard",
+    "position": [
+      -0.203196615,
+      1.2375,
+      2.18987226
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32625:256",
+    "name": "FocusProxy_GEO_Far_pedestrian",
+    "position": [
+      -12.01182,
+      1.2375,
+      -2.16178656
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32658:256",
+    "name": "FocusProxy_GEO_Far_tree",
+    "position": [
+      0.959805965,
+      4.92891,
+      -12.0065956
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32681:256",
+    "name": "FocusProxy_GEO_Foreground_atelier",
+    "position": [
+      12.0,
+      2.43500018,
+      13.4400005
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32636:256",
+    "name": "FocusProxy_GEO_Foreground_tree",
+    "position": [
+      5.46624947,
+      3.771731,
+      12.5102758
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32698:256",
+    "name": "FocusProxy_GEO_Laptop_visitor_coral",
+    "position": [
+      0.6999999,
+      1.19499993,
+      2.755
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32690:256",
+    "name": "FocusProxy_GEO_Lime_tree_east",
+    "position": [
+      -3.524761,
+      4.01671171,
+      -4.9005065
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32652:256",
+    "name": "FocusProxy_GEO_Lime_tree_terrace",
+    "position": [
+      7.96841049,
+      3.73207617,
+      1.71018982
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32645:256",
+    "name": "FocusProxy_GEO_Lime_tree_west",
+    "position": [
+      5.957039,
+      4.967494,
+      -5.698506
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32599:256",
+    "name": "FocusProxy_GEO_Pedestrian_blue",
+    "position": [
+      -2.07423115,
+      1.2375,
+      3.83059359
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32530:256",
+    "name": "FocusProxy_GEO_Pedestrian_yellow",
+    "position": [
+      7.884424,
+      1.2375,
+      3.13684249
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32670:256",
+    "name": "FocusProxy_GEO_Red_little_hatchback",
+    "position": [
+      6.99000025,
+      0.840000033,
+      6.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32538:256",
+    "name": "FocusProxy_GEO_Seated_visitor_blue",
+    "position": [
+      7.0449996,
+      1.19499993,
+      -1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32573:256",
+    "name": "FocusProxy_GEO_Seated_visitor_ivory",
+    "position": [
+      5.55499935,
+      1.19499993,
+      -3.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32553:256",
+    "name": "FocusProxy_GEO_South_east_shop",
+    "position": [
+      -14.0,
+      2.535,
+      13.4400005
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32580:256",
+    "name": "FocusProxy_GEO_Townhouse_back",
+    "position": [
+      1.0,
+      2.93500018,
+      -12.36
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32616:256",
+    "name": "FocusProxy_GEO_Yellow_distant_hatchback",
+    "position": [
+      -6.10000038,
+      0.840000033,
+      -10.5099993
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32524:256",
+    "name": "FocusProxy_Ground",
+    "position": [
+      0.0,
+      -0.03,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32516:256",
+    "name": "FocusProxy_Terrace floor",
+    "position": [
+      2.6,
+      0.22,
+      -0.7
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32675:256",
+    "name": "FocusProxy_Cafe table west",
+    "position": [
+      6.1,
+      0.8,
+      -1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32602:256",
+    "name": "FocusProxy_Cafe table parasol",
+    "position": [
+      6.5,
+      0.8,
+      -3.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32527:256",
+    "name": "FocusProxy_Picnic table",
+    "position": [
+      0.8,
+      0.8,
+      2.1
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32678:256",
+    "name": "FocusProxy_GEO_Background_tree_east trunk",
+    "position": [
+      -13.2423706,
+      1.77235937,
+      -8.998764
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32519:256",
+    "name": "FocusProxy_GEO_Background_tree_west trunk",
+    "position": [
+      12.9649258,
+      1.759173,
+      -8.195012
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32544:256",
+    "name": "FocusProxy_GEO_Far_tree trunk",
+    "position": [
+      0.959805965,
+      1.7573489,
+      -12.0065956
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32535:256",
+    "name": "FocusProxy_GEO_Foreground_tree trunk",
+    "position": [
+      5.46624947,
+      1.38204789,
+      12.5102758
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32622:256",
+    "name": "FocusProxy_GEO_Lime_tree_east trunk",
+    "position": [
+      -3.524761,
+      1.46150124,
+      -4.9005065
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32687:256",
+    "name": "FocusProxy_GEO_Lime_tree_terrace trunk",
+    "position": [
+      7.96841049,
+      1.369187,
+      1.71018982
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32564:256",
+    "name": "FocusProxy_GEO_Lime_tree_west trunk",
+    "position": [
+      5.957039,
+      1.76986277,
+      -5.698506
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32561:256",
+    "name": "Doro Game Camera",
+    "position": [
+      26.0,
+      29.0,
+      34.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32655:256",
+    "name": "Doro Global Volume",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32664:256",
+    "name": "Focus Target - follows screen center",
+    "position": [
+      -1.1,
+      2.2,
+      -0.2
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32593:256",
+    "name": "Doro Warm Afternoon Sun",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30796:2816",
+    "name": "Belly Dancer - Road Performance",
+    "position": [
+      -3.4,
+      0.08,
+      5.5
+    ],
+    "scale": [
+      0.859917164,
+      0.859917164,
+      0.859917164
+    ],
+    "active": true
+  },
+  {
+    "id": "32263:1792",
+    "name": "Belly Dancing Girl",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32317:2816",
+    "name": "CH_Arm_L",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32290:1280",
+    "name": "CH_Arm_R",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32273:1792",
+    "name": "CH_Body",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30800:2816",
+    "name": "CH_Dress",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32261:1792",
+    "name": "CH_Eyes",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32260:1792",
+    "name": "CH_Face",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32262:1792",
+    "name": "CH_Hair_Back",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30831:2816",
+    "name": "CH_Hair_Front",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32719:1792",
+    "name": "CH_Hand_L",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32329:2304",
+    "name": "CH_Hand_R",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32313:2304",
+    "name": "CH_Head",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32309:2816",
+    "name": "CH_Leg_L",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32314:2816",
+    "name": "CH_Leg_R",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32720:1792",
+    "name": "CH_Rig",
+    "position": [
+      -3.37169719,
+      0.07243058,
+      5.57049274
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32726:1792",
+    "name": "Root",
+    "position": [
+      -3.37169719,
+      0.07243058,
+      5.57049274
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30782:2816",
+    "name": "Pelvis",
+    "position": [
+      -3.39659762,
+      0.7223147,
+      5.50613928
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32704:1792",
+    "name": "Spine",
+    "position": [
+      -3.40052915,
+      0.824928,
+      5.495978
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32304:2816",
+    "name": "Chest",
+    "position": [
+      -3.4080925,
+      0.966066062,
+      5.483546
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32326:2816",
+    "name": "Neck",
+    "position": [
+      -3.41876721,
+      1.11584878,
+      5.47369051
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30779:3328",
+    "name": "Head",
+    "position": [
+      -3.422345,
+      1.2102102,
+      5.479218
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32305:2304",
+    "name": "UpperArm.L",
+    "position": [
+      -3.59273171,
+      1.08686364,
+      5.54986
+    ],
+    "scale": [
+      1.0,
+      0.9999999,
+      0.9999998
+    ],
+    "active": true
+  },
+  {
+    "id": "32341:2304",
+    "name": "Forearm.L",
+    "position": [
+      -3.616697,
+      1.19306076,
+      5.79601431
+    ],
+    "scale": [
+      0.9999999,
+      0.9999999,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32353:2304",
+    "name": "Hand.L",
+    "position": [
+      -3.500197,
+      1.30653155,
+      5.927225
+    ],
+    "scale": [
+      1.0,
+      0.9999999,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30827:3328",
+    "name": "Index.01.L",
+    "position": [
+      -3.462898,
+      1.371881,
+      5.9571166
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30809:3328",
+    "name": "Index.02.L",
+    "position": [
+      -3.45214939,
+      1.413427,
+      5.98026228
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32324:2304",
+    "name": "Little.01.L",
+    "position": [
+      -3.51761079,
+      1.36032522,
+      5.98563957
+    ],
+    "scale": [
+      1.0,
+      0.99999994,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32362:2304",
+    "name": "Little.02.L",
+    "position": [
+      -3.50934982,
+      1.38992035,
+      6.009668
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32320:2816",
+    "name": "Middle.01.L",
+    "position": [
+      -3.481635,
+      1.3679235,
+      5.966885
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32712:1792",
+    "name": "Middle.02.L",
+    "position": [
+      -3.468185,
+      1.41314983,
+      5.995646
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32722:1792",
+    "name": "Ring.01.L",
+    "position": [
+      -3.50037241,
+      1.36396623,
+      5.976653
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32361:2304",
+    "name": "Ring.02.L",
+    "position": [
+      -3.48730922,
+      1.40417969,
+      6.004475
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32706:1792",
+    "name": "Thumb.01.L",
+    "position": [
+      -3.46522975,
+      1.32753325,
+      5.92710638
+    ],
+    "scale": [
+      0.99999994,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30784:2816",
+    "name": "Thumb.02.L",
+    "position": [
+      -3.43944573,
+      1.35669637,
+      5.94779444
+    ],
+    "scale": [
+      1.00000012,
+      1.0,
+      0.99999994
+    ],
+    "active": true
+  },
+  {
+    "id": "32710:1792",
+    "name": "UpperArm.R",
+    "position": [
+      -3.24175262,
+      1.10203874,
+      5.400337
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      0.99999994
+    ],
+    "active": true
+  },
+  {
+    "id": "32708:1792",
+    "name": "Forearm.R",
+    "position": [
+      -3.00655985,
+      1.21239889,
+      5.32998848
+    ],
+    "scale": [
+      0.9999999,
+      0.99999994,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30786:2816",
+    "name": "Hand.R",
+    "position": [
+      -2.82615757,
+      1.27614141,
+      5.413989
+    ],
+    "scale": [
+      1.0,
+      0.9999999,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30730:2816",
+    "name": "Index.01.R",
+    "position": [
+      -2.83444118,
+      1.32270253,
+      5.479706
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32365:2304",
+    "name": "Index.02.R",
+    "position": [
+      -2.844558,
+      1.36001921,
+      5.50941133
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32363:2304",
+    "name": "Little.01.R",
+    "position": [
+      -2.81868744,
+      1.35574508,
+      5.42871
+    ],
+    "scale": [
+      1.0,
+      0.9999999,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30819:2816",
+    "name": "Little.02.R",
+    "position": [
+      -2.815134,
+      1.38515544,
+      5.454085
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30817:2816",
+    "name": "Middle.01.R",
+    "position": [
+      -2.82904625,
+      1.33401859,
+      5.46224165
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32716:1792",
+    "name": "Middle.02.R",
+    "position": [
+      -2.84067917,
+      1.37629688,
+      5.49586725
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32730:1792",
+    "name": "Ring.01.R",
+    "position": [
+      -2.82365084,
+      1.34533441,
+      5.444777
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32264:1792",
+    "name": "Ring.02.R",
+    "position": [
+      -2.82836556,
+      1.38427281,
+      5.47676849
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32715:1792",
+    "name": "Thumb.01.R",
+    "position": [
+      -2.83077574,
+      1.275537,
+      5.45451164
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32714:1792",
+    "name": "Thumb.02.R",
+    "position": [
+      -2.82751369,
+      1.29428649,
+      5.49427462
+    ],
+    "scale": [
+      1.00000012,
+      1.0,
+      0.9999999
+    ],
+    "active": true
+  },
+  {
+    "id": "32268:1792",
+    "name": "Thigh.L",
+    "position": [
+      -3.51943231,
+      0.7197134,
+      5.52739763
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32360:2304",
+    "name": "Shin.L",
+    "position": [
+      -3.50535965,
+      0.439412177,
+      5.56935167
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32820:2304",
+    "name": "Foot.L",
+    "position": [
+      -3.506788,
+      0.2897066,
+      5.403299
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32272:1792",
+    "name": "Thigh.R",
+    "position": [
+      -3.2737627,
+      0.7249161,
+      5.48488045
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "30880:2304",
+    "name": "Shin.R",
+    "position": [
+      -3.21326447,
+      0.506041169,
+      5.655059
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32301:2304",
+    "name": "Foot.R",
+    "position": [
+      -3.21555638,
+      0.293955684,
+      5.58433533
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32276:1792",
+    "name": "CH_Shoes",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32278:1792",
+    "name": "CH_Socks",
+    "position": [
+      -3.4,
+      0.12795867,
+      5.5
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "active": true
+  },
+  {
+    "id": "32280:1792",
+    "name": "FocusProxy_Belly Dancer",
+    "position": [
+      -3.4,
+      1.03,
+      5.5
+    ],
+    "scale": [
+      1.16290271,
+      1.16290271,
+      1.16290271
+    ],
+    "active": true
+  }
+]

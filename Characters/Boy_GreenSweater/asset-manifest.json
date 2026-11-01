@@ -1,0 +1,157 @@
+{
+  "triangles": 23798,
+  "bones": 22,
+  "height": 1.2182997465133667,
+  "files": [
+    {
+      "path": "Blender/Boy_GreenSweater.blend",
+      "bytes": 1714115,
+      "sha256": "7afb554f33224a27a3a286221e5e9ae74486c600b558dd2150dd2f6928090eb2"
+    },
+    {
+      "path": "Blender/Cafe_With_Boy_GreenSweater.blend",
+      "bytes": 15173012,
+      "sha256": "523e7e38f6f90e816696d1e200e504161c9d665f263efbaabd12b814d6596684"
+    },
+    {
+      "path": "Models/Boy_GreenSweater_Rigged.fbx",
+      "bytes": 3026700,
+      "sha256": "97eac1b83bc6088c9596be2a866a9923dbb5f8c00c0e8c5b1c0dd30d03f52041"
+    },
+    {
+      "path": "Animations/Boy_Idle.fbx",
+      "bytes": 2373884,
+      "sha256": "e00611f1461e6e29fa7d27bddb33baf04c48e644b04589d97646353f16050c24"
+    },
+    {
+      "path": "Animations/Boy_Run.fbx",
+      "bytes": 2275276,
+      "sha256": "0ce07affec522bf28dae9810b00e10b0d60240ec009fbbde0ef3df32275329fa"
+    },
+    {
+      "path": "Animations/Boy_Sit.fbx",
+      "bytes": 2370652,
+      "sha256": "8826b38d3e65f0b8be770eb3a7accb3aaa37ae7298e0605b665ca28b56ddeadd"
+    },
+    {
+      "path": "Animations/Boy_Walk.fbx",
+      "bytes": 2294284,
+      "sha256": "05e4e55e840615e481eade1bac26a69b37e11e2a23c63aa5c5f18283e6ab0a7c"
+    },
+    {
+      "path": "Animations/Boy_Wave.fbx",
+      "bytes": 2398028,
+      "sha256": "503ede7b8014362e28770fbb1419eb4c7dfb0a0b3f68ab201d6ed5f9df79354e"
+    },
+    {
+      "path": "Textures/MAT_Hair_DarkBrown_BaseColor.png",
+      "bytes": 306204,
+      "sha256": "4485faeab48981ff0135535695c4c2dbd0ad157d0e8b56f0ce8ba81cd96b0aa6"
+    },
+    {
+      "path": "Textures/MAT_Hair_DarkBrown_Normal.png",
+      "bytes": 22850,
+      "sha256": "530a767fc15a3ba327af6ea4f874301a89e9f009ca79a58268c612de07df18fc"
+    },
+    {
+      "path": "Textures/MAT_Pants_Khaki_BaseColor.png",
+      "bytes": 369969,
+      "sha256": "603832e5bcdd812db6566e270be1ae52dc7a57db70539121f7bb639b225c66f6"
+    },
+    {
+      "path": "Textures/MAT_Pants_Khaki_Normal.png",
+      "bytes": 6997,
+      "sha256": "c7006e7cad2dba1072aa76ff5bfa86a40a23ccbb164e34a49bc675de8e697fc8"
+    },
+    {
+      "path": "Textures/MAT_Sweater_ForestGreen_BaseColor.png",
+      "bytes": 320484,
+      "sha256": "dd6ea62c5885eff1fee5baa5d966be88c75f5d20f4228fdda9bea916d7b0b937"
+    },
+    {
+      "path": "Textures/MAT_Sweater_ForestGreen_Normal.png",
+      "bytes": 7688,
+      "sha256": "4fa54841e9a5e259dd29664f17acf26c36b0d7bd67fa83bc6f0cb6d13843c2e4"
+    },
+    {
+      "path": "Textures/Skin_Blush_Gradient.png",
+      "bytes": 13144,
+      "sha256": "f18e3a37ed4994a50740341daab2100fa75c7e7534eb1ec9f798eb5b500da184"
+    },
+    {
+      "path": "Textures/Skin_Face_Blush.png",
+      "bytes": 10320,
+      "sha256": "e7d1ad410960bc54c9ade06d6ffb37d571948044e27b38dce5fcce9fca59c2f5"
+    },
+    {
+      "path": "Previews/Back.png",
+      "bytes": 1114570,
+      "sha256": "1d472c492f273da3e71124c9ff0325c08e449af4af8c653227796181369ee153"
+    },
+    {
+      "path": "Previews/Cafe_Instance.png",
+      "bytes": 1474010,
+      "sha256": "d7093c545088c2079c329294ff867145f25bd31116ea5971678a10058de7ed59"
+    },
+    {
+      "path": "Previews/Front.png",
+      "bytes": 1104111,
+      "sha256": "631560d8115c7c42d33fdf644b8f63c3d6ca8584af74b08c800736567433762b"
+    },
+    {
+      "path": "Previews/Idle.png",
+      "bytes": 1142231,
+      "sha256": "a8b2adec19202d0f1f3372079e1e1a7c5f0b807acf4ff2dbf86995888fdc25e3"
+    },
+    {
+      "path": "Previews/Isometric.png",
+      "bytes": 1138701,
+      "sha256": "09d20b4232ec58afb9c81c05abe1bc992486811f594a88393838f7d2ead2890b"
+    },
+    {
+      "path": "Previews/Left.png",
+      "bytes": 1076321,
+      "sha256": "899a319c47ee2e82a411244d542f231e0abdd34866fac3b0b6c3e13934755253"
+    },
+    {
+      "path": "Previews/Right.png",
+      "bytes": 1077554,
+      "sha256": "27d4bbe545bcc514a6b79e0b88e5b16ae73facec3f78018f0702228f663d2ed5"
+    },
+    {
+      "path": "Previews/Sit.png",
+      "bytes": 1140788,
+      "sha256": "6206f76e423f0b56ba7137b6c508ed1252440d5b9511c560c6f3ab89c97f30de"
+    },
+    {
+      "path": "Previews/Unity_Idle.png",
+      "bytes": 132257,
+      "sha256": "232133b3484baa5b37d63fd279be3a678acf61d2f03ff3a681fd3f696065f0e6"
+    },
+    {
+      "path": "Previews/Unity_Sit.png",
+      "bytes": 127741,
+      "sha256": "65f44839a6e6c3f3dd1f5e03d64bf76186634750699c63a8745eb17e4bd27836"
+    },
+    {
+      "path": "Previews/Unity_Walk.png",
+      "bytes": 130108,
+      "sha256": "04292625a2edf71c4857ddaad78f2bf67bfa25dd8bf1004ed0b11c7c37c2a8e5"
+    },
+    {
+      "path": "Previews/Unity_Wave.png",
+      "bytes": 131696,
+      "sha256": "a4c856a339b34c2517fc0a24d93c6cc66c6841c2193a9fb6c688fa0516c70e03"
+    },
+    {
+      "path": "Previews/Walking.gif",
+      "bytes": 2510375,
+      "sha256": "603a45ac967da8f3a900117aedfa9a3abeaf015297f53e88f165d8f5c0f377b6"
+    },
+    {
+      "path": "Previews/Wave.png",
+      "bytes": 1141770,
+      "sha256": "33ae5e12be374cd6a36c58f0b14f56db70345852cb6304cf9d29118451f497c2"
+    }
+  ]
+}

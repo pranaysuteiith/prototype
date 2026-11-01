@@ -1,0 +1,11 @@
+{
+  "birdsLooping": true,
+  "quietBarkPlays": true,
+  "volumeControl": true,
+  "muteStopsOutput": true,
+  "decodedClipHasSignal": true,
+  "birdsSeconds": 59.0,
+  "dogSeconds": 2.038594,
+  "master": 0.65,
+  "barkEvery": "(35.00, 65.00)"
+}

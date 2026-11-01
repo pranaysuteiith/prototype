@@ -1,0 +1,42 @@
+{
+  "ANIM_Idle": {
+    "endpointBoneMatrixDelta": 0.0,
+    "loopEndpointsMatch": true,
+    "minimumSoleZAcrossFrames": -9.357929542375132e-09,
+    "highestLowestSoleZ": 0.008000004105269909
+  },
+  "ANIM_Walk": {
+    "endpointBoneMatrixDelta": 0.0,
+    "loopEndpointsMatch": true,
+    "minimumSoleZAcrossFrames": -1.3127923637057393e-08,
+    "highestLowestSoleZ": 0.0040000565350055695
+  },
+  "ANIM_Run": {
+    "endpointBoneMatrixDelta": 0.0,
+    "loopEndpointsMatch": true,
+    "minimumSoleZAcrossFrames": -1.1175870895385742e-08,
+    "highestLowestSoleZ": 0.015881620347499847
+  },
+  "ANIM_Wave": {
+    "endpointBoneMatrixDelta": 0.0,
+    "loopEndpointsMatch": null,
+    "minimumSoleZAcrossFrames": -9.357929542375132e-09,
+    "highestLowestSoleZ": 0.0039999959990382195
+  },
+  "ANIM_Sit": {
+    "endpointBoneMatrixDelta": 1.066262923181057,
+    "loopEndpointsMatch": null,
+    "minimumSoleZAcrossFrames": -1.1920928955078125e-07,
+    "highestLowestSoleZ": 0.004498640540987253
+  },
+  "restPose": {
+    "negativeObjectScales": [],
+    "armatureScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "tPoseUpperArmHorizontal": true,
+    "allActionsPresent": true
+  }
+}

@@ -1,0 +1,248 @@
+[
+  {
+    "group": "blender-environment",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/doro-build/build_scene.py",
+    "copy": "sources/code/blender-environment/build_scene.py",
+    "sha256": "677483f0cae6230ab68644944e3f6e3ca99e0daf972c4528b8fa9047b347ad4b"
+  },
+  {
+    "group": "blender-environment",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/doro-build/camera_scene.py",
+    "copy": "sources/code/blender-environment/camera_scene.py",
+    "sha256": "a8fcdca9e1b957f970c00dc3371c2cec008821fd8f2a66403681836b372ba135"
+  },
+  {
+    "group": "blender-environment",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/doro-build/detail_scene.py",
+    "copy": "sources/code/blender-environment/detail_scene.py",
+    "sha256": "64a14f7d1c24261916daf8a9dd59fed170a262b4a9436b27ac7f1143b232dfc6"
+  },
+  {
+    "group": "blender-environment",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/doro-build/export_scene.py",
+    "copy": "sources/code/blender-environment/export_scene.py",
+    "sha256": "0adb397cfc0a58347382fbe22947885f30dd81fac6887f1e82bb06944ea63a46"
+  },
+  {
+    "group": "blender-environment",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/doro-build/finish_foliage.py",
+    "copy": "sources/code/blender-environment/finish_foliage.py",
+    "sha256": "692a0a400ab8e09af5def93243670823aea06485894d36169eb79b1be1004d55"
+  },
+  {
+    "group": "blender-environment",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/doro-build/refine_scene.py",
+    "copy": "sources/code/blender-environment/refine_scene.py",
+    "sha256": "71a65ac54dae93bb2c79519ec8cfdc1f00a95168fc8b0fcdd9a8cba7284270a7"
+  },
+  {
+    "group": "blender-female",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/character-build/animate_character.py",
+    "copy": "sources/code/blender-female/animate_character.py",
+    "sha256": "b3969f5dbb90fc72cc812428de6b038bf38cfb3ce79bd26de85d18deda673a82"
+  },
+  {
+    "group": "blender-female",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/character-build/model_character.py",
+    "copy": "sources/code/blender-female/model_character.py",
+    "sha256": "55cfc9c760c388636401e21bccc9d28130ce7f395d3cb0a69375abe43b853012"
+  },
+  {
+    "group": "blender-female",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/character-build/preview_character.py",
+    "copy": "sources/code/blender-female/preview_character.py",
+    "sha256": "fc31d8eabaeff415ee55ebcf3c403ae697611ee471a43c02fb8a2d13cbba7b4e"
+  },
+  {
+    "group": "blender-female",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/character-build/refine_character.py",
+    "copy": "sources/code/blender-female/refine_character.py",
+    "sha256": "654f7b2d4b40f0a40f3e4281e1a1d7be1eeafb82b24af44606eedf23e33c562e"
+  },
+  {
+    "group": "blender-boy",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/Work/build_boy.py",
+    "copy": "sources/code/blender-boy/build_boy.py",
+    "sha256": "cfa1d50bc5392f98061a1a215344a504b3b98a014bd1e161ddefcad5d4062859"
+  },
+  {
+    "group": "blender-boy",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/Work/render_boy.py",
+    "copy": "sources/code/blender-boy/render_boy.py",
+    "sha256": "93d9cb9424c3a4800027d0c090cb7298cfc874597c34a72f495fe9e29a956100"
+  },
+  {
+    "group": "blender-boy",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/Work/audit_boy.py",
+    "copy": "sources/code/blender-boy/audit_boy.py",
+    "sha256": "c9aa64ae16b82e455aa61c105406e0271630f63c96a9a48ff6c266e2f51a8e96"
+  },
+  {
+    "group": "blender-boy",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/Work/fbx_roundtrip.py",
+    "copy": "sources/code/blender-boy/fbx_roundtrip.py",
+    "sha256": "89b2c6155967be2cf7236d87adc7e9382fde14c516ee565f6bdc3dc8bd858a46"
+  },
+  {
+    "group": "blender-boy",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/Work/finalize_uv.py",
+    "copy": "sources/code/blender-boy/finalize_uv.py",
+    "sha256": "07a6a504d3b009565fbd0d94f72a1aa67cd2a03b3d47cc832488487e2d689848"
+  },
+  {
+    "group": "blender-boy",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/Work/cafe_preview.py",
+    "copy": "sources/code/blender-boy/cafe_preview.py",
+    "sha256": "7195dacc0fd573cc200fc1efe17296adc8978a48a0e1e0b8066f604b7227d80f"
+  },
+  {
+    "group": "unity-runtime",
+    "source": "/Users/pranay/My project/Assets/DoroPainted/Scripts/DoroAmbientSound.cs",
+    "copy": "sources/code/unity-runtime/DoroAmbientSound.cs",
+    "sha256": "a7442f4341417b9bcda23a811a4232cbb1e3a8cb59208133f8049028607700df"
+  },
+  {
+    "group": "unity-runtime",
+    "source": "/Users/pranay/My project/Assets/DoroPainted/Scripts/DoroBoyWalker.cs",
+    "copy": "sources/code/unity-runtime/DoroBoyWalker.cs",
+    "sha256": "20b29669a19f054800eba451f3ba1c3b66c3758f1a5b831231eb5a40fe726a1a"
+  },
+  {
+    "group": "unity-runtime",
+    "source": "/Users/pranay/My project/Assets/DoroPainted/Scripts/DoroCenterFocus.cs",
+    "copy": "sources/code/unity-runtime/DoroCenterFocus.cs",
+    "sha256": "13ac51bff3e92dae39718f42179938a56fea15eea508c60b5608a7a6cd5da35a"
+  },
+  {
+    "group": "unity-runtime",
+    "source": "/Users/pranay/My project/Assets/DoroPainted/Scripts/DoroPanZoom.cs",
+    "copy": "sources/code/unity-runtime/DoroPanZoom.cs",
+    "sha256": "ce53ee439dcd1c15dac281397eb11319ced0f40a496b86f83d2ba566c3e1da3a"
+  },
+  {
+    "group": "unity-runtime",
+    "source": "/Users/pranay/My project/Assets/DoroPainted/Scripts/DoroViewLighting.cs",
+    "copy": "sources/code/unity-runtime/DoroViewLighting.cs",
+    "sha256": "754d46211c1b9ff1d6481b3ffbf02aaa5aa8db43ef8d2e145474b0b3fb1beba8"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/AgentScripts/DoroAudioVerify.cs",
+    "copy": "sources/code/unity-integration/DoroAudioVerify.cs",
+    "sha256": "bb7a6eaa2a95c9062c1c607bd601fbd0e233fa79e2f6a6118fe8c14b122a12f1"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/AgentScripts/DoroBrowserSetup.cs",
+    "copy": "sources/code/unity-integration/DoroBrowserSetup.cs",
+    "sha256": "f183236510ad1d9c65046a2728550f4636bdfa3729b183c6b176c1a1642fbc07"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/AgentScripts/DoroDancerGround.cs",
+    "copy": "sources/code/unity-integration/DoroDancerGround.cs",
+    "sha256": "49fe73cb82754e2d73d783b4e90ff127f286a55a6cf9e2a20241892eec802e3a"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/AgentScripts/DoroDancerSetup.cs",
+    "copy": "sources/code/unity-integration/DoroDancerSetup.cs",
+    "sha256": "40552b0bd0aa27e31d35a41d4f6f87311ceeca599c5ce25a1a92a0fe7746154b"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/AgentScripts/DoroDancerVerify.cs",
+    "copy": "sources/code/unity-integration/DoroDancerVerify.cs",
+    "sha256": "d381c6f1aa49b1fb52ce698fc71bbc4b9fbe518bfba16c1d7a3c0f90ace2edb3"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/AgentScripts/DoroOrbitVerify.cs",
+    "copy": "sources/code/unity-integration/DoroOrbitVerify.cs",
+    "sha256": "89d9989afc833840429dd3d12d2ed0291743ceddf0b873edbc7bf85330b1f545"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/AgentScripts/DoroVerify.cs",
+    "copy": "sources/code/unity-integration/DoroVerify.cs",
+    "sha256": "285263ed239d0a75d0ccb416bb362d7ac35f129790a02ef6183dd45267a3a453"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/AgentScripts/normalize_doro_export.py",
+    "copy": "sources/code/unity-integration/normalize_doro_export.py",
+    "sha256": "c9149c3b99ca1f82617310c410bace8f993df59a2f29982d94aa067fdb5ab50f"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/Work/unity_import_verify.cs",
+    "copy": "sources/code/unity-integration/unity_import_verify.cs",
+    "sha256": "0d6c96aee692b6a34a644738ea56897ea5fc5217a1695945dca293e50851846e"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/Work/unity_play_verify.cs",
+    "copy": "sources/code/unity-integration/unity_play_verify.cs",
+    "sha256": "3ece637e4d8009444056e3deeeb93ed009624c77a1efa51f2cb49d59409d9141"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/UnityMap/SetupWalker.cs",
+    "copy": "sources/code/unity-integration/SetupWalker.cs",
+    "sha256": "0139d49f1884c5d6a32ee31a189c706b38f55833a2657f098cbf99dd8f510c6c"
+  },
+  {
+    "group": "unity-integration",
+    "source": "/Users/pranay/My project/Characters/Boy_GreenSweater/UnityMap/TestWalker.cs",
+    "copy": "sources/code/unity-integration/TestWalker.cs",
+    "sha256": "41202345fb6655da2e2bd67c58de77d10073790b12d837e88d7115337a4a642e"
+  },
+  {
+    "group": "connection-probe",
+    "source": "/Users/pranay/Documents/Codex/2026-10-22/new-chat-6/work/blender-transfer/ImportBlenderBalls.cs",
+    "copy": "sources/code/connection-probe/ImportBlenderBalls.cs",
+    "sha256": "997439be85621b1d5a40b792de367dd21b323c2c0645c7985f0ace184b1d7018"
+  },
+  {
+    "group": "browser-shell",
+    "source": "/Users/pranay/My project/Sites/doro-cafe/dist/index.html",
+    "copy": "sources/code/browser-shell/index.html",
+    "sha256": "c7315fce80b19b28060ec30abdfa6edb9cb219b0d9e11c7ac24498cbe0cf0060"
+  },
+  {
+    "group": "browser-shell",
+    "source": "/Users/pranay/My project/Sites/doro-cafe/dist/app.js",
+    "copy": "sources/code/browser-shell/app.js",
+    "sha256": "d16f258ece276e36d12cc61fea9619a75412cf9561ff3e9941f1ee73765b9742"
+  },
+  {
+    "group": "browser-shell",
+    "source": "/Users/pranay/My project/Sites/doro-cafe/dist/style.css",
+    "copy": "sources/code/browser-shell/style.css",
+    "sha256": "88ba9dcb74de6f34ca2b080c6e292c6fa6d24138dce1b792bddcf95ce57bbb7e"
+  },
+  {
+    "group": "browser-shell",
+    "source": "/Users/pranay/My project/Sites/doro-cafe/dist/build-config.json",
+    "copy": "sources/code/browser-shell/build-config.json",
+    "sha256": "2a45eef5759399cee04c0cf66e93f54ff9b5dd2f04ef6a80a8e7bf6722edba7c"
+  },
+  {
+    "group": "browser-shell",
+    "source": "/Users/pranay/My project/Sites/doro-cafe/dist/audio-credits.txt",
+    "copy": "sources/code/browser-shell/audio-credits.txt",
+    "sha256": "5ef955a4bbd59e5634857c07182d5453ec62e8f9b38daa49021b830aea460b79"
+  },
+  {
+    "group": "browser-shell",
+    "source": "/Users/pranay/My project/Sites/doro-cafe/.openai/hosting.json",
+    "copy": "sources/code/browser-shell/hosting.json",
+    "sha256": "644032bbb1de72523d421292415b6beba86c6ac5d09da716ec0a2d009dfc89a6"
+  },
+  {
+    "group": "browser-shell",
+    "source": "/Users/pranay/My project/BuildArtifacts/prepare_playable_site.py",
+    "copy": "sources/code/browser-shell/prepare_playable_site.py",
+    "sha256": "ec9873e6f62eb3696c4216ef4bb59a960f20cc16131240a2d768550bc7c4c4b1"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "loaderUrl": "game/Build/r20261028-7b81b344e4/DoroWebGL-PlayableBoy.loader.js",
+  "frameworkUrl": "game/Build/r20261028-7b81b344e4/DoroWebGL-PlayableBoy.framework.js.unityweb",
+  "codeUrl": "game/Build/r20261028-7b81b344e4/DoroWebGL-PlayableBoy.wasm.unityweb",
+  "dataParts": [
+    "game/Build/r20261028-7b81b344e4/scene.data.part00.bin",
+    "game/Build/r20261028-7b81b344e4/scene.data.part01.bin",
+    "game/Build/r20261028-7b81b344e4/scene.data.part02.bin"
+  ],
+  "dataBytes": 39741424,
+  "dataSHA256": "7b81b344e438302115279d4f861113db04ab19c68319682a36604c02823dcca2",
+  "release": "r20261028-7b81b344e4"
+}

@@ -1,0 +1,48 @@
+{
+  "playMode": true,
+  "renderersVisible": true,
+  "spawnGroundY": 0.05800014,
+  "arrowTests": [
+    {
+      "key": "UpArrow",
+      "distance": 0.8896467,
+      "directionDot": 1.0,
+      "walkingAnimation": true,
+      "cameraFollowsOnlyPlayer": true,
+      "grounded": true,
+      "feetY": 0.360150516
+    },
+    {
+      "key": "DownArrow",
+      "distance": 0.893435836,
+      "directionDot": 1.0,
+      "walkingAnimation": true,
+      "cameraFollowsOnlyPlayer": true,
+      "grounded": true,
+      "feetY": 0.05800026
+    },
+    {
+      "key": "LeftArrow",
+      "distance": 0.887983,
+      "directionDot": 0.9999983,
+      "walkingAnimation": true,
+      "cameraFollowsOnlyPlayer": true,
+      "grounded": true,
+      "feetY": 0.262661517
+    },
+    {
+      "key": "RightArrow",
+      "distance": 0.903401732,
+      "directionDot": 0.999998748,
+      "walkingAnimation": true,
+      "cameraFollowsOnlyPlayer": true,
+      "grounded": true,
+      "feetY": 0.05800026
+    }
+  ],
+  "idleAfterRelease": true,
+  "boundaryBlocks": true,
+  "wallX": 18.105,
+  "errors": [],
+  "screenshot": "Characters/Boy_GreenSweater/Previews/Unity_PlayableBoy.png"
+}

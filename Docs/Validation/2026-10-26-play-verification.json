@@ -1,0 +1,363 @@
+{
+  "tests": [
+    {
+      "name": "Existing pickup animations",
+      "pass": true,
+      "detail": {
+        "count": 3
+      }
+    },
+    {
+      "name": "Player loop advances",
+      "pass": true,
+      "detail": {
+        "initialFrame": 1059,
+        "frame": 1069
+      }
+    },
+    {
+      "name": "Pan W",
+      "pass": true,
+      "detail": {
+        "before": "(-1.10, 2.20, -0.20)",
+        "after": "(-1.63, 2.20, -0.86)"
+      }
+    },
+    {
+      "name": "Pan A",
+      "pass": true,
+      "detail": {
+        "before": "(-1.63, 2.20, -0.86)",
+        "after": "(-0.95, 2.20, -1.40)"
+      }
+    },
+    {
+      "name": "Pan S",
+      "pass": true,
+      "detail": {
+        "before": "(-0.95, 2.20, -1.40)",
+        "after": "(-0.43, 2.20, -0.74)"
+      }
+    },
+    {
+      "name": "Pan D",
+      "pass": true,
+      "detail": {
+        "before": "(-0.43, 2.20, -0.74)",
+        "after": "(-1.10, 2.20, -0.21)"
+      }
+    },
+    {
+      "name": "Pan UpArrow",
+      "pass": true,
+      "detail": {
+        "before": "(-1.10, 2.20, -0.21)",
+        "after": "(-1.63, 2.20, -0.88)"
+      }
+    },
+    {
+      "name": "Pan LeftArrow",
+      "pass": true,
+      "detail": {
+        "before": "(-1.63, 2.20, -0.88)",
+        "after": "(-0.95, 2.20, -1.41)"
+      }
+    },
+    {
+      "name": "Pan DownArrow",
+      "pass": true,
+      "detail": {
+        "before": "(-0.95, 2.20, -1.41)",
+        "after": "(-0.42, 2.20, -0.74)"
+      }
+    },
+    {
+      "name": "Pan RightArrow",
+      "pass": true,
+      "detail": {
+        "before": "(-0.42, 2.20, -0.74)",
+        "after": "(-1.10, 2.20, -0.21)"
+      }
+    },
+    {
+      "name": "Drag Right",
+      "pass": true,
+      "detail": {
+        "before": "(-1.10, 2.20, -0.21)",
+        "after": "(3.80, 2.20, -2.43)"
+      }
+    },
+    {
+      "name": "Drag Middle",
+      "pass": true,
+      "detail": {
+        "before": "(3.80, 2.20, -2.43)",
+        "after": "(8.71, 2.20, -4.65)"
+      }
+    },
+    {
+      "name": "Wheel dolly zoom",
+      "pass": true,
+      "detail": {
+        "beforeDistance": 51.2083,
+        "afterDistance": 45.41769
+      }
+    },
+    {
+      "name": "Focus FocusProxy_GEO_Cafe",
+      "pass": true,
+      "detail": {
+        "subject": "FocusProxy_GEO_Cafe",
+        "depth": 39.2096062,
+        "expected": 39.0692253,
+        "error": 0.140380859,
+        "pivot": "(-0.26, 2.20, -3.34)"
+      }
+    },
+    {
+      "name": "Focus FocusProxy_GEO_Lime_tree_terrace",
+      "pass": true,
+      "detail": {
+        "subject": "FocusProxy_GEO_Lime_tree_terrace",
+        "depth": 40.14564,
+        "expected": 40.1423836,
+        "error": 0.00325775146,
+        "pivot": "(6.35, 2.20, -0.33)"
+      }
+    },
+    {
+      "name": "Focus FocusProxy_Picnic table",
+      "pass": true,
+      "detail": {
+        "subject": "FocusProxy_Picnic table",
+        "depth": 47.35059,
+        "expected": 47.4245071,
+        "error": 0.07391739,
+        "pivot": "(2.22, 2.20, 3.89)"
+      }
+    },
+    {
+      "name": "Focus FocusProxy_Ground",
+      "pass": true,
+      "detail": {
+        "subject": "FocusProxy_Ground",
+        "depth": 49.5360565,
+        "expected": 49.58271,
+        "error": 0.0466537476,
+        "pivot": "(-7.78, 2.20, 11.81)"
+      }
+    },
+    {
+      "name": "Ground-plane fallback",
+      "pass": true,
+      "detail": {
+        "FocusSubject": "Ground plane fallback",
+        "CurrentDepth": 49.61927
+      }
+    },
+    {
+      "name": "B toggles blur",
+      "pass": true,
+      "detail": {
+        "beforeBlur": true,
+        "after": false
+      }
+    },
+    {
+      "name": "Existing pickup collection trigger",
+      "pass": true,
+      "detail": {
+        "pickupName": "Collectible_Star (3)",
+        "collected": true
+      }
+    },
+    {
+      "name": "No missing or unsupported materials",
+      "pass": true,
+      "detail": [
+        {
+          "name": "Doro_Painted_Atlas",
+          "shader": "Universal Render Pipeline/Lit",
+          "path": "Assets/DoroPainted/Materials/Doro_Painted_Atlas.mat"
+        },
+        {
+          "name": "Doro_Leaf_14",
+          "shader": "Universal Render Pipeline/Lit",
+          "path": "Assets/DoroPainted/Materials/Doro_Leaf_14.mat"
+        },
+        {
+          "name": "Doro_Leaf_18",
+          "shader": "Universal Render Pipeline/Lit",
+          "path": "Assets/DoroPainted/Materials/Doro_Leaf_18.mat"
+        },
+        {
+          "name": "Doro_Leaf_15",
+          "shader": "Universal Render Pipeline/Lit",
+          "path": "Assets/DoroPainted/Materials/Doro_Leaf_15.mat"
+        },
+        {
+          "name": "Doro_Leaf_13",
+          "shader": "Universal Render Pipeline/Lit",
+          "path": "Assets/DoroPainted/Materials/Doro_Leaf_13.mat"
+        },
+        {
+          "name": "Doro_Warm_Window",
+          "shader": "Universal Render Pipeline/Lit",
+          "path": "Assets/DoroPainted/Materials/Doro_Warm_Window.mat"
+        },
+        {
+          "name": "Doro_Leaf_17",
+          "shader": "Universal Render Pipeline/Lit",
+          "path": "Assets/DoroPainted/Materials/Doro_Leaf_17.mat"
+        }
+      ]
+    },
+    {
+      "name": "Simplified trigger focus colliders",
+      "pass": true,
+      "detail": {
+        "count": 37
+      }
+    }
+  ],
+  "failures": [],
+  "profiles": [
+    {
+      "blur": true,
+      "frames": 180,
+      "elapsedSeconds": 1.8493859170002906,
+      "observedFPS": 97.329604570559582,
+      "Main Thread": {
+        "valid": true,
+        "samples": 180,
+        "mean": 10231111.355555555,
+        "unit": "TimeNanoseconds"
+      },
+      "Render Thread": {
+        "valid": false,
+        "samples": 0,
+        "mean": 0.0,
+        "unit": "unavailable"
+      },
+      "Triangles Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 1341411.0,
+        "unit": "Count"
+      },
+      "Vertices Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 3264050.0,
+        "unit": "Count"
+      },
+      "Draw Calls Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 216.0,
+        "unit": "Count"
+      },
+      "Batches Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 0.0,
+        "unit": "Count"
+      },
+      "SetPass Calls Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 43.0,
+        "unit": "Count"
+      },
+      "GC Allocated In Frame": {
+        "valid": true,
+        "samples": 180,
+        "mean": 9171.3833333333332,
+        "unit": "Bytes"
+      },
+      "System Used Memory": {
+        "valid": true,
+        "samples": 180,
+        "mean": 4234838135.8222222,
+        "unit": "Bytes"
+      }
+    },
+    {
+      "blur": false,
+      "frames": 180,
+      "elapsedSeconds": 1.6342900829999962,
+      "observedFPS": 110.13956571870136,
+      "Main Thread": {
+        "valid": true,
+        "samples": 180,
+        "mean": 9026669.2555555552,
+        "unit": "TimeNanoseconds"
+      },
+      "Render Thread": {
+        "valid": false,
+        "samples": 0,
+        "mean": 0.0,
+        "unit": "unavailable"
+      },
+      "Triangles Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 1341406.0,
+        "unit": "Count"
+      },
+      "Vertices Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 3264035.0,
+        "unit": "Count"
+      },
+      "Draw Calls Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 211.0,
+        "unit": "Count"
+      },
+      "Batches Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 0.0,
+        "unit": "Count"
+      },
+      "SetPass Calls Count": {
+        "valid": true,
+        "samples": 180,
+        "mean": 38.0,
+        "unit": "Count"
+      },
+      "GC Allocated In Frame": {
+        "valid": true,
+        "samples": 180,
+        "mean": 9155.58888888889,
+        "unit": "Bytes"
+      },
+      "System Used Memory": {
+        "valid": true,
+        "samples": 180,
+        "mean": 4163022785.7777777,
+        "unit": "Bytes"
+      }
+    }
+  ],
+  "geometry": {
+    "meshes": 28,
+    "triangles": 472140,
+    "vertices": 1175933
+  },
+  "camera": {
+    "position": "(26.00, 29.00, 34.00)",
+    "fieldOfView": 19.157
+  },
+  "environment": {
+    "deviceModel": "Mac14,2",
+    "graphicsDeviceName": "Apple M2",
+    "width": 2070,
+    "height": 1271,
+    "quality": "PC"
+  },
+  "finalFrame": 2132
+}

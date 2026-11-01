@@ -1,0 +1,364 @@
+{
+  "asset": "Boy Green Sweater",
+  "bones": 22,
+  "actions": {
+    "ANIM_Idle": {
+      "frames": [
+        1.0,
+        73.0
+      ],
+      "seconds": 3.0,
+      "inPlace": false,
+      "loop": true
+    },
+    "ANIM_Walk": {
+      "frames": [
+        1.0,
+        25.0
+      ],
+      "seconds": 1.0,
+      "inPlace": true,
+      "loop": true
+    },
+    "ANIM_Run": {
+      "frames": [
+        1.0,
+        19.0
+      ],
+      "seconds": 0.75,
+      "inPlace": true,
+      "loop": true
+    },
+    "ANIM_Wave": {
+      "frames": [
+        1.0,
+        97.0
+      ],
+      "seconds": 4.0,
+      "inPlace": false,
+      "loop": false
+    },
+    "ANIM_Sit": {
+      "frames": [
+        1.0,
+        73.0
+      ],
+      "seconds": 3.0,
+      "inPlace": false,
+      "loop": false
+    }
+  },
+  "meshes": [
+    {
+      "name": "CH_Head",
+      "vertices": 922,
+      "triangles": 1840,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Ears",
+      "vertices": 292,
+      "triangles": 576,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Ear_Inner",
+      "vertices": 172,
+      "triangles": 336,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Nose",
+      "vertices": 114,
+      "triangles": 224,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Mouth",
+      "vertices": 66,
+      "triangles": 128,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Eyes",
+      "vertices": 172,
+      "triangles": 336,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Eyebrows",
+      "vertices": 144,
+      "triangles": 280,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Hair_Base",
+      "vertices": 321,
+      "triangles": 638,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Hair_Clumps",
+      "vertices": 2790,
+      "triangles": 5400,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Sunglasses_Frame",
+      "vertices": 360,
+      "triangles": 708,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Sunglasses_Lenses",
+      "vertices": 128,
+      "triangles": 248,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Torso",
+      "vertices": 146,
+      "triangles": 288,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.9802322387695312e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_UpperArm_L",
+      "vertices": 86,
+      "triangles": 168,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.9802322387695312e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Forearm_L",
+      "vertices": 86,
+      "triangles": 168,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.9802322387695312e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_UpperArm_R",
+      "vertices": 86,
+      "triangles": 168,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.9802322387695312e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Forearm_R",
+      "vertices": 86,
+      "triangles": 168,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.9802322387695312e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Legs",
+      "vertices": 220,
+      "triangles": 432,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.9802322387695312e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Feet",
+      "vertices": 228,
+      "triangles": 448,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Sweater",
+      "vertices": 1840,
+      "triangles": 3664,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.9802322387695312e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Sweater_Collar",
+      "vertices": 128,
+      "triangles": 252,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Sweater_Cuffs",
+      "vertices": 256,
+      "triangles": 504,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.2351741790771484e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Sweater_Waist",
+      "vertices": 192,
+      "triangles": 380,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.8405338525772095e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Trousers",
+      "vertices": 1056,
+      "triangles": 2108,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 2.9802322387695312e-08,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Trousers_Cuffs",
+      "vertices": 256,
+      "triangles": 504,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Shoes",
+      "vertices": 364,
+      "triangles": 720,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Shoes_Soles",
+      "vertices": 388,
+      "triangles": 760,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Shoes_Laces",
+      "vertices": 168,
+      "triangles": 304,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Hand_L",
+      "vertices": 514,
+      "triangles": 1024,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    },
+    {
+      "name": "CH_Hand_R",
+      "vertices": 514,
+      "triangles": 1024,
+      "nonmanifoldEdges": 0,
+      "unweightedVertices": 0,
+      "maxWeightError": 0,
+      "uvLayers": 1
+    }
+  ],
+  "issues": [],
+  "triangles": 23798,
+  "vertices": 12095,
+  "restBounds": {
+    "min": [
+      -0.5185365080833435,
+      -0.19050005078315735,
+      0.0
+    ],
+    "max": [
+      0.5185388326644897,
+      0.20225462317466736,
+      1.2182997465133667
+    ]
+  },
+  "deformationTests": [
+    {
+      "test": "Head left",
+      "finiteDeformation": true
+    },
+    {
+      "test": "Head right",
+      "finiteDeformation": true
+    },
+    {
+      "test": "Shoulders",
+      "finiteDeformation": true
+    },
+    {
+      "test": "Elbows",
+      "finiteDeformation": true
+    },
+    {
+      "test": "Hips",
+      "finiteDeformation": true
+    },
+    {
+      "test": "Knees",
+      "finiteDeformation": true
+    },
+    {
+      "test": "Feet",
+      "finiteDeformation": true
+    },
+    {
+      "test": "Torso",
+      "finiteDeformation": true
+    }
+  ],
+  "renderEngine": "BLENDER_EEVEE"
+}

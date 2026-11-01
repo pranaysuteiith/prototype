@@ -1,0 +1,14 @@
+{
+  "scene": "Assets/Scenes/GetStarted_Scene.unity",
+  "backup": "Characters/Boy_GreenSweater/UnityMap/GetStarted_BeforePlayableBoy.unity",
+  "player": "Boy Green Sweater - Arrow Keys",
+  "spawn": [
+    2.5,
+    0.078,
+    5.2
+  ],
+  "layer": 28,
+  "staticCollisionTriangles": 102848,
+  "colliders": 30,
+  "renderLayer": 31
+}
